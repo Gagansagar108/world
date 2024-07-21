@@ -1,0 +1,1230 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tokyo,Tokyo,35.6897,139.6922,Japan,JP,JPN,Tōkyō,primary,37732000,1392685764
+Jakarta,Jakarta,-6.175,106.8275,Indonesia,ID,IDN,Jakarta,primary,33756000,1360771077
+Delhi,Delhi,28.61,77.23,India,IN,IND,Delhi,admin,32226000,1356872604
+Guangzhou,Guangzhou,23.13,113.26,China,CN,CHN,Guangdong,admin,26940000,1156237133
+Mumbai,Mumbai,19.0761,72.8775,India,IN,IND,Mahārāshtra,admin,24973000,1356226629
+Manila,Manila,14.5958,120.9772,Philippines,PH,PHL,Manila,primary,24922000,1608618140
+Shanghai,Shanghai,31.2286,121.4747,China,CN,CHN,Shanghai,admin,24073000,1156073548
+São Paulo,Sao Paulo,-23.55,-46.6333,Brazil,BR,BRA,São Paulo,admin,23086000,1076532519
+Seoul,Seoul,37.56,126.99,"Korea, South",KR,KOR,Seoul,primary,23016000,1410836482
+Mexico City,Mexico City,19.4333,-99.1333,Mexico,MX,MEX,Ciudad de México,primary,21804000,1484247881
+Cairo,Cairo,30.0444,31.2358,Egypt,EG,EGY,Al Qāhirah,primary,20296000,1818253931
+New York,New York,40.6943,-73.9249,United States,US,USA,New York,,18908608,1840034016
+Dhaka,Dhaka,23.7639,90.3889,Bangladesh,BD,BGD,Dhaka,primary,18627000,1050529279
+Beijing,Beijing,39.9067,116.3975,China,CN,CHN,Beijing,primary,18522000,1156228865
+Kolkāta,Kolkata,22.5675,88.37,India,IN,IND,West Bengal,admin,18502000,1356060520
+Bangkok,Bangkok,13.7525,100.4942,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,18007000,1764068610
+Shenzhen,Shenzhen,22.5415,114.0596,China,CN,CHN,Guangdong,minor,17619000,1156158707
+Moscow,Moscow,55.7558,37.6172,Russia,RU,RUS,Moskva,primary,17332000,1643318494
+Buenos Aires,Buenos Aires,-34.6033,-58.3817,Argentina,AR,ARG,"Buenos Aires, Ciudad Autónoma de",primary,16710000,1032717330
+Lagos,Lagos,6.455,3.3841,Nigeria,NG,NGA,Lagos,minor,16637000,1566593751
+Istanbul,Istanbul,41.0136,28.955,Turkey,TR,TUR,İstanbul,admin,16079000,1792756324
+Karachi,Karachi,24.86,67.01,Pakistan,PK,PAK,Sindh,admin,15738000,1586129469
+Bangalore,Bangalore,12.9789,77.5917,India,IN,IND,Karnātaka,admin,15386000,1356410365
+Ho Chi Minh City,Ho Chi Minh City,10.7756,106.7019,Vietnam,VN,VNM,Hồ Chí Minh,admin,15136000,1704774326
+Ōsaka,Osaka,34.6939,135.5022,Japan,JP,JPN,Ōsaka,admin,15126000,1392419823
+Chengdu,Chengdu,30.66,104.0633,China,CN,CHN,Sichuan,admin,14645000,1156421555
+Tehran,Tehran,35.6892,51.3889,Iran,IR,IRN,Tehrān,primary,14148000,1364305026
+Kinshasa,Kinshasa,-4.3219,15.3119,Congo (Kinshasa),CD,COD,Kinshasa,primary,12836000,1180000363
+Rio de Janeiro,Rio de Janeiro,-22.9111,-43.2056,Brazil,BR,BRA,Rio de Janeiro,admin,12592000,1076887657
+Chennai,Chennai,13.0825,80.275,India,IN,IND,Tamil Nādu,admin,12395000,1356374944
+Xi’an,Xi'an,34.2611,108.9422,China,CN,CHN,Shaanxi,admin,12328000,1156244079
+Lahore,Lahore,31.5497,74.3436,Pakistan,PK,PAK,Punjab,admin,12306000,1586801463
+Chongqing,Chongqing,29.5637,106.5504,China,CN,CHN,Chongqing,admin,12135000,1156936556
+Los Angeles,Los Angeles,34.1141,-118.4068,United States,US,USA,California,,11922389,1840020491
+Baoding,Baoding,38.874,115.464,China,CN,CHN,Hebei,minor,11544036,1156256829
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,"London, City of",primary,11262000,1826645935
+Paris,Paris,48.8567,2.3522,France,FR,FRA,Île-de-France,primary,11060000,1250015082
+Linyi,Linyi,35.1038,118.3564,China,CN,CHN,Shandong,,11018365,1156086320
+Dongguan,Dongguan,23.021,113.752,China,CN,CHN,Guangdong,minor,10646000,1156478242
+Hyderābād,Hyderabad,17.3617,78.4747,India,IN,IND,Telangāna,admin,10494000,1356871768
+Tianjin,Tianjin,39.1336,117.2054,China,CN,CHN,Tianjin,admin,10368000,1156174046
+Lima,Lima,-12.06,-77.0375,Peru,PE,PER,Lima,primary,10320000,1604728603
+Wuhan,Wuhan,30.5934,114.3046,China,CN,CHN,Hubei,admin,10251000,1156117184
+Nanyang,Nanyang,32.9987,112.5292,China,CN,CHN,Henan,,9713112,1156192287
+Hangzhou,Hangzhou,30.267,120.153,China,CN,CHN,Zhejiang,admin,9523000,1156275243
+Foshan,Foshan,23.0214,113.1216,China,CN,CHN,Guangdong,minor,9498863,1156738403
+Nagoya,Nagoya,35.1833,136.9,Japan,JP,JPN,Aichi,admin,9197000,1392407472
+Tongshan,Tongshan,34.204,117.284,China,CN,CHN,Jiangsu,minor,9083790,1156241678
+Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,9051000,1024949724
+Zhoukou,Zhoukou,33.625,114.6418,China,CN,CHN,Henan,minor,9026015,1156272098
+Ganzhou,Ganzhou,25.831,114.933,China,CN,CHN,Jiangxi,minor,8970014,1156832475
+Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,MY,MYS,Kuala Lumpur,primary,8911000,1458988644
+Heze,Heze,35.2343,115.4796,China,CN,CHN,Shandong,minor,8795939,1156225008
+Quanzhou,Quanzhou,24.8744,118.6757,China,CN,CHN,Fujian,minor,8782285,1156829655
+Johannesburg,Johannesburg,-26.2044,28.0456,South Africa,ZA,ZAF,Gauteng,admin,8500000,1710550792
+Chicago,Chicago,41.8375,-87.6866,United States,US,USA,Illinois,,8497759,1840000494
+Nanjing,Nanjing,32.0608,118.7789,China,CN,CHN,Jiangsu,admin,8422000,1156644065
+Jining,Jining,35.4151,116.5871,China,CN,CHN,Shandong,,8357897,1156504601
+Hanoi,Hanoi,21,105.85,Vietnam,VN,VNM,Hà Nội,primary,8246600,1704413791
+Pune,Pune,18.5203,73.8567,India,IN,IND,Mahārāshtra,,8231000,1356081074
+Fuyang,Fuyang,32.89,115.814,China,CN,CHN,Anhui,,8200264,1156248008
+Ahmedabad,Ahmedabad,23.0225,72.5714,India,IN,IND,Gujarāt,minor,8009000,1356304381
+Bogotá,Bogota,4.7111,-74.0722,Colombia,CO,COL,Bogotá,primary,7968095,1170483426
+Shenyang,Shenyang,41.8025,123.4281,China,CN,CHN,Liaoning,admin,7964000,1156309382
+Dar es Salaam,Dar es Salaam,-6.8161,39.2803,Tanzania,TZ,TZA,Dar es Salaam,admin,7962000,1834843853
+Khartoum,Khartoum,15.6,32.5,Sudan,SD,SDN,Khartoum,primary,7869000,1729268475
+Shangqiu,Shangqiu,34.415,115.656,China,CN,CHN,Henan,,7816831,1156805441
+Hong Kong,Hong Kong,22.3,114.2,Hong Kong,HK,HKG,,primary,7450000,1344982653
+Cangzhou,Cangzhou,38.3047,116.8387,China,CN,CHN,Hebei,minor,7300783,1156698069
+Riyadh,Riyadh,24.6333,46.7167,Saudi Arabia,SA,SAU,Ar Riyāḑ,primary,7237000,1682999334
+Santiago,Santiago,-33.4372,-70.6506,Chile,CL,CHL,Región Metropolitana,primary,7171000,1152554349
+Xingtai,Xingtai,37.0717,114.5048,China,CN,CHN,Hebei,,7111106,1156294952
+Zhumadian,Zhumadian,33.014,114.022,China,CN,CHN,Henan,,7008427,1156184822
+Chattogram,Chattogram,22.335,91.8325,Bangladesh,BD,BGD,Chattogram,admin,7000000,1050830722
+Surabaya,Surabaya,-7.2458,112.7378,Indonesia,ID,IDN,Jawa Timur,admin,6998000,1360484663
+Zhanjiang,Zhanjiang,21.2701,110.3575,China,CN,CHN,Guangdong,minor,6981236,1156502170
+Bijie,Bijie,27.284,105.292,China,CN,CHN,Guizhou,,6899636,1156018927
+Yancheng,Yancheng,33.3482,120.1626,China,CN,CHN,Jiangsu,minor,6709629,1156995410
+Hengyang,Hengyang,26.894,112.572,China,CN,CHN,Hunan,,6645243,1156696884
+Zunyi,Zunyi,27.722,107.031,China,CN,CHN,Guizhou,,6606675,1156539782
+Shaoyang,Shaoyang,27.2395,111.4679,China,CN,CHN,Hunan,,6563520,1156310366
+Sūrat,Surat,21.1702,72.8311,India,IN,IND,Gujarāt,,6538000,1356758738
+Shangrao,Shangrao,28.4551,117.9431,China,CN,CHN,Jiangxi,minor,6435300,1156405492
+Xinyang,Xinyang,32.149,114.091,China,CN,CHN,Henan,,6234401,1156273453
+Madrid,Madrid,40.4169,-3.7033,Spain,ES,ESP,Madrid,primary,6211000,1724616994
+Baghdad,Baghdad,33.3153,44.3661,Iraq,IQ,IRQ,Baghdād,primary,6183000,1368596238
+Maoming,Maoming,21.6627,110.9255,China,CN,CHN,Guangdong,minor,6174050,1156568722
+Jieyang,Jieyang,23.551,116.3727,China,CN,CHN,Guangdong,minor,6089400,1156260378
+Miami,Miami,25.784,-80.2101,United States,US,USA,Florida,,6080145,1840015149
+Singapore,Singapore,1.3,103.8,Singapore,SG,SGP,,primary,5983000,1702341327
+Houston,Houston,29.786,-95.3885,United States,US,USA,Texas,,5970127,1840020925
+Liaocheng,Liaocheng,36.4559,115.9852,China,CN,CHN,Shandong,minor,5952128,1156006600
+Huanggang,Huanggang,30.4537,114.8724,China,CN,CHN,Hubei,minor,5882719,1156200037
+Dalian,Dalian,38.9,121.6,China,CN,CHN,Liaoning,,5871474,1156175472
+Dallas,Dallas,32.7935,-96.7667,United States,US,USA,Texas,,5830932,1840019440
+Qingdao,Qingdao,36.0669,120.3827,China,CN,CHN,Shandong,minor,5818255,1156112588
+Yulin,Yulin,22.654,110.181,China,CN,CHN,Guangxi,minor,5796766,1156901312
+Douala,Douala,4.05,9.7,Cameroon,CM,CMR,Littoral,admin,5768400,1120494607
+Qujing,Qujing,25.491,103.796,China,CN,CHN,Yunnan,,5765775,1156747998
+Nangandao,Nangandao,35.3036,113.9268,China,CN,CHN,Henan,minor,5708191,1156127660
+Philadelphia,Philadelphia,40.0077,-75.1339,United States,US,USA,Pennsylvania,,5683533,1840000673
+Pudong,Pudong,31.2347,121.5064,China,CN,CHN,Shanghai,minor,5681512,1156644508
+Toronto,Toronto,43.7417,-79.3733,Canada,CA,CAN,Ontario,admin,5647656,1124279679
+Zhengzhou,Zhengzhou,34.764,113.684,China,CN,CHN,Henan,admin,5621593,1156183137
+Dezhou,Dezhou,37.436,116.359,China,CN,CHN,Shandong,minor,5611194,1156524080
+Nanchong,Nanchong,30.8372,106.1106,China,CN,CHN,Sichuan,minor,5607565,1156762337
+Jinan,Jinan,36.6702,117.0207,China,CN,CHN,Shandong,admin,5606374,1156972469
+Giza,Giza,29.987,31.2118,Egypt,EG,EGY,Al Jīzah,admin,5598402,1818925479
+Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000,1404000661
+Guadalajara,Guadalajara,20.6767,-103.3475,Mexico,MX,MEX,Jalisco,admin,5525000,1484950208
+Ankara,Ankara,39.93,32.85,Turkey,TR,TUR,Ankara,primary,5503985,1792572891
+Tai’an,Tai'an,36.202,117.087,China,CN,CHN,Shandong,,5472217,1156095188
+Langfang,Langfang,39.5383,116.6835,China,CN,CHN,Hebei,minor,5464087,1156109017
+Dazhou,Dazhou,31.2093,107.4678,China,CN,CHN,Sichuan,minor,5385422,1156834076
+Saint Petersburg,Saint Petersburg,59.9375,30.3086,Russia,RU,RUS,Sankt-Peterburg,admin,5384342,1643616350
+Monterrey,Monterrey,25.6667,-100.3,Mexico,MX,MEX,Nuevo León,admin,5341171,1484559591
+Belo Horizonte,Belo Horizonte,-19.9167,-43.9333,Brazil,BR,BRA,Minas Gerais,admin,5328000,1076967355
+Suzhou,Suzhou,33.6333,116.9683,China,CN,CHN,Anhui,,5324476,1156871297
+Yongzhou,Yongzhou,26.42,111.613,China,CN,CHN,Hunan,,5289824,1156694479
+Changde,Changde,29.031,111.699,China,CN,CHN,Hunan,minor,5279102,1156449091
+Xiangyang,Xiangyang,32.01,112.122,China,CN,CHN,Hubei,minor,5260951,1156107325
+Rangoon,Rangoon,16.795,96.16,Burma,MM,MMR,Yangon,primary,5209541,1104616656
+Atlanta,Atlanta,33.7628,-84.422,United States,US,USA,Georgia,admin,5180179,1840013660
+Washington,Washington,38.9047,-77.0163,United States,US,USA,District of Columbia,primary,5116378,1840006060
+Zhaotong,Zhaotong,27.338,103.717,China,CN,CHN,Yunnan,,5092611,1156924687
+Zhangzhou,Zhangzhou,24.513,117.647,China,CN,CHN,Fujian,minor,5054328,1156241637
+Melbourne,Melbourne,-37.8142,144.9631,Australia,AU,AUS,Victoria,admin,5031195,1036533631
+Yichun,Yichun,27.816,114.417,China,CN,CHN,Jiangxi,minor,5007702,1156229590
+Bozhou,Bozhou,33.8626,115.7742,China,CN,CHN,Anhui,,4996844,1156356860
+Suqian,Suqian,33.9331,118.2831,China,CN,CHN,Jiangsu,,4986192,1156212349
+Abidjan,Abidjan,5.3167,-4.0333,Côte d’Ivoire,CI,CIV,Abidjan,primary,4980000,1384207980
+Ji’an,Ji'an,27.0912,114.9668,China,CN,CHN,Jiangxi,minor,4956600,1156278215
+Guilin,Guilin,25.275,110.296,China,CN,CHN,Guangxi,minor,4931137,1156235364
+Pingdingshan,Pingdingshan,33.735,113.2999,China,CN,CHN,Henan,,4904701,1156735124
+Berlin,Berlin,52.52,13.405,Germany,DE,DEU,Berlin,primary,4890363,1276451290
+Alexandria,Alexandria,31.1975,29.8925,Egypt,EG,EGY,Al Iskandarīyah,admin,4870000,1818695837
+Mianyang,Mianyang,31.468,104.679,China,CN,CHN,Sichuan,minor,4868243,1156417758
+Sydney,Sydney,-33.8678,151.21,Australia,AU,AUS,New South Wales,admin,4840600,1036074917
+Huanglongsi,Huanglongsi,34.795,114.345,China,CN,CHN,Henan,,4824016,1156198356
+Barcelona,Barcelona,41.3828,2.1769,Spain,ES,ESP,Catalonia,admin,4800000,1724594040
+Yuncheng,Yuncheng,35.0267,111.007,China,CN,CHN,Shanxi,,4774508,1156705644
+Cape Town,Cape Town,-33.9253,18.4239,South Africa,ZA,ZAF,Western Cape,primary,4770313,1710680650
+Changsha,Changsha,28.228,112.939,China,CN,CHN,Hunan,admin,4766296,1156961497
+Jeddah,Jeddah,21.5433,39.1728,Saudi Arabia,SA,SAU,Makkah al Mukarramah,,4697000,1682926944
+Weinan,Weinan,34.5206,109.471,China,CN,CHN,Shaanxi,minor,4688744,1156903687
+Chenzhou,Chenzhou,25.77,113.016,China,CN,CHN,Hunan,minor,4667134,1156291915
+Jiangmen,Jiangmen,22.5789,113.0815,China,CN,CHN,Guangdong,minor,4630300,1156105613
+Jiujiang,Jiujiang,29.661,115.954,China,CN,CHN,Jiangxi,minor,4600276,1156206041
+Xinpu,Xinpu,34.5966,119.2214,China,CN,CHN,Jiangsu,minor,4599360,1156035381
+Yibin,Yibin,28.752,104.643,China,CN,CHN,Sichuan,minor,4588804,1156107603
+Huaihua,Huaihua,27.5698,110.0016,China,CN,CHN,Hunan,,4587594,1156353465
+Yangzhou,Yangzhou,32.3912,119.4363,China,CN,CHN,Jiangsu,,4559797,1156818601
+Taizhou,Taizhou,32.4567,119.9229,China,CN,CHN,Jiangsu,minor,4512762,1156119229
+Kunming,Kunming,25.0464,102.7094,China,CN,CHN,Yunnan,admin,4422686,1156477539
+Yiyang,Yiyang,28.5549,112.356,China,CN,CHN,Hunan,,4413800,1156218615
+Changchun,Changchun,43.897,125.326,China,CN,CHN,Jilin,admin,4408154,1156078103
+Lu’an,Lu'an,31.736,116.52,China,CN,CHN,Anhui,minor,4393699,1156499624
+Jiangguanchi,Jiangguanchi,34.0244,113.8201,China,CN,CHN,Henan,minor,4379998,1156235735
+Meizhou,Meizhou,24.289,116.122,China,CN,CHN,Guangdong,minor,4378800,1156361028
+Ürümqi,Urumqi,43.8225,87.6125,China,CN,CHN,Xinjiang,admin,4335017,1156051276
+Suzhou,Suzhou,31.3,120.6194,China,CN,CHN,Jiangsu,minor,4330000,1156029196
+Boston,Boston,42.3188,-71.0852,United States,US,USA,Massachusetts,admin,4328315,1840000455
+İzmir,Izmir,38.42,27.14,Turkey,TR,TUR,İzmir,admin,4320519,1792725579
+Guigang,Guigang,23.112,109.599,China,CN,CHN,Guangxi,minor,4316262,1156895251
+Shantou,Shantou,23.354,116.682,China,CN,CHN,Guangdong,minor,4312192,1156457499
+Kabul,Kabul,34.5253,69.1783,Afghanistan,AF,AFG,Kābul,primary,4273156,1004993580
+Xiaoganzhan,Xiaoganzhan,30.918,113.957,China,CN,CHN,Hubei,,4270371,1156002290
+Bamako,Bamako,12.6392,-8.0028,Mali,ML,MLI,Bamako,primary,4227569,1466965925
+Luzhou,Luzhou,28.871,105.442,China,CN,CHN,Sichuan,minor,4218427,1156582079
+Hefei,Hefei,31.8206,117.2273,China,CN,CHN,Anhui,admin,4216940,1156332710
+Hengshui,Hengshui,37.739,115.669,China,CN,CHN,Hebei,minor,4212933,1156803028
+Fortaleza,Fortaleza,-3.7275,-38.5275,Brazil,BR,BRA,Ceará,admin,4167996,1076567885
+Anqing,Anqing,30.5318,117.1153,China,CN,CHN,Anhui,minor,4165284,1156238875
+Liuzhou,Liuzhou,24.3264,109.4281,China,CN,CHN,Guangxi,minor,4157934,1156360785
+Zhangjiakou,Zhangjiakou,40.769,114.886,China,CN,CHN,Hebei,minor,4118908,1156800221
+Zhaoqing,Zhaoqing,23.05,112.4667,China,CN,CHN,Guangdong,minor,4113594,1156170144
+Shijiazhuang,Shijiazhuang,38.0425,114.51,China,CN,CHN,Hebei,admin,4098243,1156217541
+Ningbo,Ningbo,29.8603,121.6245,China,CN,CHN,Zhejiang,minor,4087523,1156170787
+Qiqihar,Qiqihar,47.3549,123.9182,China,CN,CHN,Heilongjiang,minor,4067489,1156775905
+Phoenix,Phoenix,33.5722,-112.0892,United States,US,USA,Arizona,admin,4064275,1840020568
+Fuzhou,Fuzhou,27.949,116.358,China,CN,CHN,Jiangxi,,4047200,1156915325
+Chifeng,Chifeng,42.257,118.888,China,CN,CHN,Inner Mongolia,minor,4035967,1156277458
+Xiaoxita,Xiaoxita,30.692,111.287,China,CN,CHN,Hubei,minor,4017607,1156764447
+Amman,Amman,31.9497,35.9328,Jordan,JO,JOR,Al ‘Āşimah,primary,4007526,1400522593
+Chuzhou,Chuzhou,32.256,118.333,China,CN,CHN,Anhui,,3987054,1156036420
+Linfen,Linfen,36.088,111.519,China,CN,CHN,Shanxi,,3976481,1156416074
+Qingyuan,Qingyuan,23.682,113.056,China,CN,CHN,Guangdong,minor,3969473,1156135890
+Xianyang,Xianyang,34.3299,108.7088,China,CN,CHN,Shaanxi,minor,3959842,1156120117
+Loudi,Loudi,27.6998,111.9944,China,CN,CHN,Hunan,,3931800,1156010654
+Binzhou,Binzhou,37.383,117.971,China,CN,CHN,Shandong,,3928568,1156564962
+Zhuzhou,Zhuzhou,27.829,113.133,China,CN,CHN,Hunan,minor,3902738,1156041962
+Taiyuan,Taiyuan,37.8704,112.5497,China,CN,CHN,Shanxi,admin,3875053,1156632014
+Nanning,Nanning,22.8167,108.3275,China,CN,CHN,Guangxi,admin,3837978,1156605439
+Harbin,Harbin,45.7576,126.6409,China,CN,CHN,Heilongjiang,admin,3830000,1156241528
+Abuja,Abuja,9.0667,7.4833,Nigeria,NG,NGA,Federal Capital Territory,primary,3770000,1566342270
+Yokohama,Yokohama,35.4442,139.6381,Japan,JP,JPN,Kanagawa,admin,3757630,1392118339
+Suihua,Suihua,46.654,126.969,China,CN,CHN,Heilongjiang,minor,3756167,1156235493
+Zaozhuang,Zaozhuang,34.8109,117.3238,China,CN,CHN,Shandong,,3729140,1156796454
+Detroit,Detroit,42.3834,-83.1024,United States,US,USA,Michigan,,3725908,1840003971
+Xiamen,Xiamen,24.4796,118.0889,China,CN,CHN,Fujian,minor,3707090,1156212809
+Neijiang,Neijiang,29.5802,105.058,China,CN,CHN,Sichuan,minor,3702847,1156516335
+Montréal,Montreal,45.5089,-73.5617,Canada,CA,CAN,Quebec,,3675219,1124586170
+Fuzhou,Fuzhou,26.0743,119.2964,China,CN,CHN,Fujian,admin,3671192,1156188037
+Baicheng,Baicheng,23.903,106.619,China,CN,CHN,Guangxi,minor,3669400,1156981113
+Wuhu,Wuhu,31.3526,118.4331,China,CN,CHN,Anhui,minor,3644420,1156315512
+Yulinshi,Yulinshi,38.2858,109.7341,China,CN,CHN,Shaanxi,,3634750,1156280672
+Medan,Medan,3.5894,98.6739,Indonesia,ID,IDN,Sumatera Utara,admin,3632000,1360543171
+Wenzhou,Wenzhou,27.9938,120.6993,China,CN,CHN,Zhejiang,,3604446,1156188829
+Changzhou,Changzhou,31.811,119.974,China,CN,CHN,Jiangsu,minor,3601079,1156185511
+Puyang,Puyang,35.7627,115.0292,China,CN,CHN,Henan,minor,3598740,1156431924
+Jiaozuo,Jiaozuo,35.2157,113.2419,China,CN,CHN,Henan,,3590700,1156157854
+Nanchang,Nanchang,28.683,115.858,China,CN,CHN,Jiangxi,admin,3576547,1156198892
+Seattle,Seattle,47.6211,-122.3244,United States,US,USA,Washington,,3561397,1840021117
+Ibadan,Ibadan,7.3964,3.9167,Nigeria,NG,NGA,Oyo,admin,3552000,1566366407
+Casablanca,Casablanca,33.5333,-7.5833,Morocco,MA,MAR,Casablanca-Settat,admin,3499000,1504175315
+Kumasi,Kumasi,6.7,-1.625,Ghana,GH,GHA,Ashanti,admin,3490030,1288181103
+Deyang,Deyang,31.127,104.398,China,CN,CHN,Sichuan,minor,3456161,1156127147
+Busan,Busan,35.18,129.075,"Korea, South",KR,KOR,Busan,admin,3453198,1410601465
+Hohhot,Hohhot,40.842,111.749,China,CN,CHN,Inner Mongolia,admin,3446100,1156210167
+Hechi,Hechi,24.693,108.085,China,CN,CHN,Guangxi,minor,3417945,1156167204
+Algiers,Algiers,36.7539,3.0589,Algeria,DZ,DZA,Alger,primary,3415811,1012973369
+Tangshan,Tangshan,39.6294,118.1739,China,CN,CHN,Hebei,,3399231,1156904299
+Shiyan,Shiyan,32.629,110.7987,China,CN,CHN,Hubei,minor,3398000,1156383921
+Lucknow,Lucknow,26.85,80.95,India,IN,IND,Uttar Pradesh,admin,3382000,1356891790
+Mashhad,Mashhad,36.3264,59.5433,Iran,IR,IRN,Khorāsān-e Raẕavī,admin,3372090,1364123206
+San Francisco,San Francisco,37.7558,-122.4449,United States,US,USA,California,,3364979,1840021543
+Boankra,Boankra,6.6944,-1.4028,Ghana,GH,GHA,Ashanti,,3348000,1288164978
+Dubai,Dubai,25.2631,55.2972,United Arab Emirates,AE,ARE,Dubayy,admin,3331420,1784736618
+Anshan,Anshan,41.108,122.994,China,CN,CHN,Liaoning,,3325372,1156901825
+Baojishi,Baojishi,34.363,107.238,China,CN,CHN,Shaanxi,,3321853,1156101096
+Qinzhou,Qinzhou,21.981,108.654,China,CN,CHN,Guangxi,minor,3304400,1156106602
+Guiyang,Guiyang,26.647,106.63,China,CN,CHN,Guizhou,admin,3299724,1156932620
+Bengbu,Bengbu,32.917,117.389,China,CN,CHN,Anhui,,3296408,1156440668
+Bazhou,Bazhou,31.868,106.748,China,CN,CHN,Sichuan,minor,3283148,1156271365
+Suining,Suining,30.533,105.593,China,CN,CHN,Sichuan,minor,3252619,1156655650
+Wuxi,Wuxi,31.491,120.312,China,CN,CHN,Jiangsu,minor,3245179,1156019650
+Kotla Qasim Khan,Kotla Qasim Khan,32.5833,73.75,Pakistan,PK,PAK,Punjab,,3219375,1586216308
+Hanzhong,Hanzhong,33.0664,107.0232,China,CN,CHN,Shaanxi,,3211462,1156382678
+Putian,Putian,25.4526,119.0078,China,CN,CHN,Fujian,minor,3210714,1156811601
+Zhenjiang,Zhenjiang,32.188,119.424,China,CN,CHN,Jiangsu,minor,3210418,1156934125
+Guang’an,Guang'an,30.4564,106.6326,China,CN,CHN,Sichuan,minor,3205476,1156377302
+Faisalabad,Faisalabad,31.4167,73.0911,Pakistan,PK,PAK,Punjab,minor,3203846,1586323916
+Changzhi,Changzhi,36.195,113.117,China,CN,CHN,Shanxi,minor,3180884,1156057944
+Tongren,Tongren,27.7316,109.1895,China,CN,CHN,Guizhou,,3168800,1156803442
+Leshan,Leshan,29.552,103.766,China,CN,CHN,Sichuan,,3160168,1156203130
+Santa Cruz de la Sierra,Santa Cruz de la Sierra,-17.7892,-63.1975,Bolivia,BO,BOL,Santa Cruz,,3151676,1068005036
+Qinhuangdao,Qinhuangdao,39.8882,119.5202,China,CN,CHN,Hebei,,3146300,1156091093
+Jaipur,Jaipur,26.9,75.8,India,IN,IND,Rājasthān,admin,3073350,1356293537
+Xinzhou,Xinzhou,38.416,112.734,China,CN,CHN,Shanxi,minor,3067501,1156617534
+Lanzhou,Lanzhou,36.0606,103.8268,China,CN,CHN,Gansu,admin,3067141,1156280566
+Wuzhou,Wuzhou,23.4767,111.279,China,CN,CHN,Guangxi,minor,3061100,1156620133
+Athens,Athens,37.9842,23.7281,Greece,GR,GRC,Attikí,primary,3059764,1300715560
+San Diego,San Diego,32.8313,-117.1222,United States,US,USA,California,,3046560,1840021990
+Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3041002,1231824991
+Taichung,Taichung,24.1439,120.6794,Taiwan,TW,TWN,Taichung,admin,3033885,1158689622
+Huainan,Huainan,32.6314,117.0194,China,CN,CHN,Anhui,,3033528,1156877299
+Guatemala City,Guatemala City,14.6133,-90.5353,Guatemala,GT,GTM,Guatemala,primary,3014000,1320197916
+Kuwait City,Kuwait City,29.3697,47.9783,Kuwait,KW,KWT,Al ‘Āşimah,primary,3000000,1414102075
+Budapest,Budapest,47.4925,19.0514,Hungary,HU,HUN,Budapest,primary,2997958,1348611435
+Qincheng,Qincheng,34.5809,105.7311,China,CN,CHN,Gansu,minor,2984659,1156104017
+Rizhao,Rizhao,35.417,119.527,China,CN,CHN,Shandong,minor,2968365,1156032841
+Quezon City,Quezon City,14.65,121.0475,Philippines,PH,PHL,Quezon,admin,2960048,1608974097
+Sanaa,Sanaa,15.3483,44.2064,Yemen,YE,YEM,Amānat al ‘Āşimah,primary,2957000,1887750814
+Tashkent,Tashkent,41.3111,69.2797,Uzbekistan,UZ,UZB,Toshkent,primary,2956384,1860331871
+Kyiv,Kyiv,50.45,30.5233,Ukraine,UA,UKR,"Kyiv, Misto",primary,2952301,1804382913
+Meishan,Meishan,30.0771,103.8484,China,CN,CHN,Sichuan,,2950545,1156185501
+Incheon,Incheon,37.4833,126.6333,"Korea, South",KR,KOR,Incheon,admin,2936117,1410160313
+Birmingham,Birmingham,52.48,-1.9025,United Kingdom,GB,GBR,Birmingham,,2919600,1826423213
+Ningde,Ningde,26.6662,119.5477,China,CN,CHN,Fujian,minor,2910000,1156909802
+Zhongshan,Zhongshan,22.517,113.3925,China,CN,CHN,Guangdong,minor,2909633,1156579621
+Weihai,Weihai,37.5133,122.1205,China,CN,CHN,Shandong,minor,2906548,1156473300
+Bursa,Bursa,40.1833,29.05,Turkey,TR,TUR,Bursa,admin,2901396,1792903330
+Minneapolis,Minneapolis,44.9635,-93.2678,United States,US,USA,Minnesota,,2892569,1840007830
+Mbuji-Mayi,Mbuji-Mayi,-6.15,23.6,Congo (Kinshasa),CD,COD,Kasaï Oriental,admin,2892000,1180399586
+Haikou,Haikou,20.0186,110.3488,China,CN,CHN,Hainan,admin,2873358,1156183327
+Tongliao,Tongliao,43.654,122.243,China,CN,CHN,Inner Mongolia,minor,2873168,1156358686
+Chaoyang,Chaoyang,41.571,120.453,China,CN,CHN,Liaoning,,2872857,1156706927
+La Paz,La Paz,-16.4958,-68.1333,Bolivia,BO,BOL,La Paz,primary,2867504,1068000064
+Pyongyang,Pyongyang,39.0167,125.7475,"Korea, North",KP,PRK,P’yŏngyang,primary,2863000,1408738594
+Tampa,Tampa,27.9945,-82.4447,United States,US,USA,Florida,,2861173,1840015982
+Shaoguan,Shaoguan,24.811,113.597,China,CN,CHN,Guangdong,minor,2855131,1156617066
+Heyuan,Heyuan,23.7443,114.7002,China,CN,CHN,Guangdong,minor,2837686,1156665165
+Brasília,Brasilia,-15.7939,-47.8828,Brazil,BR,BRA,Distrito Federal,primary,2817068,1076144436
+Omdurman,Omdurman,15.65,32.4833,Sudan,SD,SDN,Khartoum,,2805396,1729912179
+Malang,Malang,-7.98,112.62,Indonesia,ID,IDN,Jawa Timur,,2795209,1360141408
+Stuttgart,Stuttgart,48.7775,9.18,Germany,DE,DEU,Baden-Württemberg,admin,2787724,1276171358
+Daqing,Daqing,46.589,125.104,China,CN,CHN,Heilongjiang,minor,2781562,1156403962
+Rome,Rome,41.8933,12.4828,Italy,IT,ITA,Lazio,primary,2748109,1380382862
+Brooklyn,Brooklyn,40.6501,-73.9496,United States,US,USA,New York,,2736074,1840034030
+Kaohsiung,Kaohsiung,22.615,120.2975,Taiwan,TW,TWN,Kaohsiung,admin,2733964,1158331334
+Xiangtan,Xiangtan,27.8313,112.9454,China,CN,CHN,Hunan,,2726181,1156195684
+Longyan,Longyan,25.076,117.017,China,CN,CHN,Fujian,minor,2723637,1156012979
+Baotou,Baotou,40.6213,109.9532,China,CN,CHN,Inner Mongolia,,2709378,1156032751
+Handan,Handan,36.601,114.487,China,CN,CHN,Hebei,minor,2708015,1156957080
+Jinzhou,Jinzhou,41.129,121.148,China,CN,CHN,Liaoning,,2703853,1156157151
+Kanpur,Kanpur,26.4499,80.3319,India,IN,IND,Uttar Pradesh,,2701324,1356575238
+Denver,Denver,39.762,-104.8758,United States,US,USA,Colorado,admin,2687458,1840018789
+Nanping,Nanping,26.6418,118.1774,China,CN,CHN,Fujian,minor,2680645,1156927445
+Gāzipura,Gazipura,23.9889,90.375,Bangladesh,BD,BGD,Dhaka,,2674697,1050449249
+Shanwei,Shanwei,22.7872,115.3756,China,CN,CHN,Guangdong,minor,2672819,1156939010
+Chaozhou,Chaozhou,23.658,116.622,China,CN,CHN,Guangdong,minor,2656600,1156549118
+Guayaquil,Guayaquil,-2.19,-79.8875,Ecuador,EC,ECU,Guayas,admin,2650288,1218802178
+Weifang,Weifang,36.708,119.162,China,CN,CHN,Shandong,,2636154,1156912965
+Huai’an,Huai'an,33.551,119.113,China,CN,CHN,Jiangsu,,2632788,1156634228
+Zibo,Zibo,36.8138,118.055,China,CN,CHN,Shandong,,2631647,1156381094
+Ankang,Ankang,32.6854,109.029,China,CN,CHN,Shaanxi,,2629906,1156255711
+Mogadishu,Mogadishu,2.0392,45.3419,Somalia,SO,SOM,Banaadir,primary,2610483,1706893395
+Munich,Munich,48.1375,11.575,Germany,DE,DEU,Bavaria,admin,2606021,1276692352
+Gulou,Gulou,26.0865,119.298,China,CN,CHN,Fujian,minor,2606000,1156680279
+Taipei,Taipei,25.0375,121.5625,Taiwan,TW,TWN,Taipei,primary,2603150,1158881289
+Bekasi,Bekasi,-6.2349,106.9923,Indonesia,ID,IDN,Jawa Barat,,2590257,1360006015
+Damascus,Damascus,33.5131,36.2919,Syria,SY,SYR,Dimashq,primary,2584771,1760685964
+Sanming,Sanming,26.2634,117.6389,China,CN,CHN,Fujian,minor,2580000,1156294429
+Yangjiang,Yangjiang,21.857,111.983,China,CN,CHN,Guangdong,minor,2555600,1156123172
+Jiamusi,Jiamusi,46.8,130.319,China,CN,CHN,Heilongjiang,minor,2552097,1156350864
+Luohe,Luohe,33.583,114.0109,China,CN,CHN,Henan,minor,2544266,1156330876
+Medellín,Medellin,6.2308,-75.5906,Colombia,CO,COL,Antioquia,admin,2529403,1170680389
+Dingxi,Dingxi,35.608,104.592,China,CN,CHN,Gansu,minor,2524097,1156518274
+Shaoxing,Shaoxing,30.0511,120.5833,China,CN,CHN,Zhejiang,minor,2521964,1156893449
+Yantai,Yantai,37.4646,121.4478,China,CN,CHN,Shandong,,2511053,1156932948
+Huizhou,Huizhou,23.112,114.416,China,CN,CHN,Guangdong,minor,2509243,1156203268
+Lishui,Lishui,28.468,119.923,China,CN,CHN,Zhejiang,minor,2507396,1156858793
+Xuanzhou,Xuanzhou,30.939,118.759,China,CN,CHN,Anhui,,2500063,1156424311
+Khowrhesht,Khowrhesht,36.205,49.6872,Iran,IR,IRN,Qazvīn,,2500000,1364002070
+Mirzāpur,Mirzapur,25.146,82.569,India,IN,IND,Uttar Pradesh,,2496970,1356427908
+Zigong,Zigong,29.339,104.779,China,CN,CHN,Sichuan,,2489256,1156023354
+Hamburg,Hamburg,53.55,10,Germany,DE,DEU,Hamburg,admin,2484800,1276041799
+Guangyuan,Guangyuan,32.436,105.844,China,CN,CHN,Sichuan,,2484122,1156084562
+Cali,Cali,3.4206,-76.5222,Colombia,CO,COL,Valle del Cauca,admin,2471474,1170417589
+Huangshi,Huangshi,30.2011,115.039,China,CN,CHN,Hubei,minor,2469079,1156234290
+Xining,Xining,36.6224,101.7804,China,CN,CHN,Qinghai,admin,2467965,1156081448
+Lusaka,Lusaka,-15.4167,28.2833,Zambia,ZM,ZMB,Lusaka,primary,2467563,1894157390
+Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,BF,BFA,Centre,primary,2453496,1854029208
+Yaoundé,Yaounde,3.8667,11.5167,Cameroon,CM,CMR,Centre,primary,2440462,1120298240
+Zhuhai,Zhuhai,22.2716,113.5769,China,CN,CHN,Guangdong,minor,2439585,1156722242
+Huludao,Huludao,40.711,120.837,China,CN,CHN,Liaoning,minor,2434194,1156580218
+Baoshan,Baoshan,25.112,99.161,China,CN,CHN,Yunnan,,2431211,1156546994
+Mecca,Mecca,21.4225,39.8233,Saudi Arabia,SA,SAU,Makkah al Mukarramah,admin,2427924,1682169241
+Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2426160,1124825478
+Lianshan,Lianshan,40.7523,120.828,China,CN,CHN,Liaoning,minor,2426000,1156046704
+Beirut,Beirut,33.8983,35.5057,Lebanon,LB,LBN,Beyrouth,primary,2421354,1422847713
+Salvador,Salvador,-12.9747,-38.4767,Brazil,BR,BRA,Bahia,admin,2418005,1076923789
+Bucharest,Bucharest,44.4325,26.1039,Romania,RO,ROU,Bucureşti,primary,2412530,1642414442
+Longba,Longba,33.3702,104.9603,China,CN,CHN,Gansu,,2407272,1156633259
+Nāgpur,Nagpur,21.1497,79.0806,India,IN,IND,Mahārāshtra,,2405665,1356365743
+Queens,Queens,40.7498,-73.7976,United States,US,USA,New York,,2405464,1840034002
+Jilin,Jilin,43.8519,126.5481,China,CN,CHN,Jilin,,2396000,1156646448
+Tieling,Tieling,42.2237,123.726,China,CN,CHN,Liaoning,,2388294,1156089994
+Accra,Accra,5.55,-0.2,Ghana,GH,GHA,Greater Accra,primary,2388000,1288299415
+Yunfu,Yunfu,22.9152,112.0445,China,CN,CHN,Guangdong,minor,2383350,1156057251
+Bekasi Kota,Bekasi Kota,-6.2333,107,Indonesia,ID,IDN,Jawa Barat,,2381053,1360673840
+Daegu,Daegu,35.8717,128.6017,"Korea, South",KR,KOR,Daegu,admin,2376044,1410095252
+Ghāziābād,Ghaziabad,28.67,77.42,India,IN,IND,Uttar Pradesh,,2375820,1356691871
+Luoyang,Luoyang,34.6197,112.4539,China,CN,CHN,Henan,,2372571,1156069315
+Brisbane,Brisbane,-27.4678,153.0281,Australia,AU,AUS,Queensland,admin,2360241,1036192929
+Anshun,Anshun,26.2531,105.9476,China,CN,CHN,Guizhou,,2353100,1156415948
+Riverside,Riverside,33.9381,-117.3949,United States,US,USA,California,,2332836,1840020551
+Yingkou,Yingkou,40.625,122.219,China,CN,CHN,Liaoning,minor,2328582,1156257074
+Colombo,Colombo,6.9344,79.8428,Sri Lanka,LK,LKA,Western,primary,2323826,1144251314
+Yanjiang,Yanjiang,30.129,104.627,China,CN,CHN,Sichuan,minor,2308631,1156217114
+Baku,Baku,40.3953,49.8822,Azerbaijan,AZ,AZE,Bakı,primary,2300500,1031946365
+Antananarivo,Antananarivo,-18.91,47.525,Madagascar,MG,MDG,Antananarivo,primary,2300000,1450978461
+Mudanjiang,Mudanjiang,44.5514,129.6329,China,CN,CHN,Heilongjiang,minor,2290208,1156249698
+Fukuoka,Fukuoka,33.59,130.4017,Japan,JP,JPN,Fukuoka,admin,2286000,1392576294
+Yan’an,Yan'an,36.65,109.494,China,CN,CHN,Shaanxi,,2282581,1156546342
+Jincheng,Jincheng,35.491,112.852,China,CN,CHN,Shanxi,minor,2279146,1156163376
+Nantong,Nantong,31.981,120.894,China,CN,CHN,Jiangsu,minor,2261382,1156045365
+Lincang,Lincang,23.884,100.089,China,CN,CHN,Yunnan,,2257991,1156044130
+Yuxi,Yuxi,24.347,102.527,China,CN,CHN,Yunnan,minor,2249502,1156682309
+Las Vegas,Las Vegas,36.2333,-115.2654,United States,US,USA,Nevada,,2248047,1840020364
+Caracas,Caracas,10.4806,-66.9036,Venezuela,VE,VEN,Distrito Capital,primary,2245744,1862748204
+Tangerang,Tangerang,-6.1703,106.6403,Indonesia,ID,IDN,Jawa Barat,,2237006,1360002844
+Laibin,Laibin,23.7501,109.2212,China,CN,CHN,Guangxi,minor,2233900,1156925734
+Konya,Konya,37.8667,32.4833,Turkey,TR,TUR,Konya,admin,2232374,1792014004
+Supaul,Supaul,26.126,86.605,India,IN,IND,Bihār,,2229076,1356015995
+Vienna,Vienna,48.2083,16.3725,Austria,AT,AUT,Wien,primary,2223236,1040261752
+Eşfahān,Esfahan,32.6447,51.6675,Iran,IR,IRN,Eşfahān,admin,2219343,1364023865
+Baltimore,Baltimore,39.3051,-76.6144,United States,US,USA,Maryland,,2196524,1840001592
+Shengli,Shengli,37.434,118.6746,China,CN,CHN,Shandong,minor,2193518,1156672254
+Dandong,Dandong,40.1167,124.3833,China,CN,CHN,Liaoning,,2188436,1156178316
+Qinbaling,Qinbaling,35.7278,107.64,China,CN,CHN,Gansu,,2179716,1156032582
+Gaoping,Gaoping,30.7824,106.1281,China,CN,CHN,Sichuan,minor,2174000,1156522457
+Awka,Awka,6.2069,7.0678,Nigeria,NG,NGA,Anambra,admin,2171900,1566560581
+Taizhou,Taizhou,28.6557,121.4208,China,CN,CHN,Zhejiang,minor,2162461,1156322307
+Ma’anshan,Ma'anshan,31.669,118.507,China,CN,CHN,Anhui,minor,2159930,1156847452
+Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000,1716196799
+Perth,Perth,-31.9559,115.8606,Australia,AU,AUS,Western Australia,admin,2141834,1036178956
+St. Louis,St. Louis,38.6359,-90.2451,United States,US,USA,Missouri,,2130881,1840001651
+Phnom Penh,Phnom Penh,11.5694,104.9211,Cambodia,KH,KHM,Phnom Penh,primary,2129371,1116260534
+Depok,Depok,-6.394,106.8225,Indonesia,ID,IDN,Jawa Barat,,2123349,1360962899
+Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,SWE,Stockholm,primary,2121000,1752425602
+Puning,Puning,23.298,116.166,China,CN,CHN,Guangdong,,2118200,1156756494
+Huaibei,Huaibei,33.956,116.798,China,CN,CHN,Anhui,,2114276,1156142626
+Kowloon,Kowloon,22.3167,114.1833,Hong Kong,HK,HKG,,,2108419,1344538284
+Córdoba,Cordoba,-31.4167,-64.1833,Argentina,AR,ARG,Córdoba,admin,2106734,1032803249
+Haiphong,Haiphong,20.8651,106.6838,Vietnam,VN,VNM,Hải Phòng,admin,2103500,1704000623
+Zamboanga City,Zamboanga City,6.9042,122.0761,Philippines,PH,PHL,Zamboanga,admin,2100000,1608189351
+Chongzuo,Chongzuo,22.377,107.365,China,CN,CHN,Guangxi,minor,2099400,1156438670
+Rawalpindi,Rawalpindi,33.6,73.0333,Pakistan,PK,PAK,Punjab,minor,2098231,1586344001
+Portland,Portland,45.5371,-122.65,United States,US,USA,Oregon,,2095808,1840019941
+Kano,Kano,12,8.5167,Nigeria,NG,NGA,Kano,admin,2095000,1566422868
+Yushan,Yushan,31.322,120.985,China,CN,CHN,Jiangsu,minor,2092496,1156245000
+Havana,Havana,23.1367,-82.3589,Cuba,CU,CUB,La Habana,primary,2089532,1192752771
+Hezhou,Hezhou,24.4042,111.5672,China,CN,CHN,Guangxi,minor,2072600,1156459799
+Pingliang,Pingliang,35.5424,106.6649,China,CN,CHN,Gansu,minor,2068033,1156216904
+Vadodara,Vadodara,22.3,73.2,India,IN,IND,Gujarāt,,2065771,1356705249
+Manaus,Manaus,-3.1189,-60.0217,Brazil,BR,BRA,Amazonas,admin,2063547,1076607274
+Qingyang,Qingyang,24.7816,118.5517,China,CN,CHN,Fujian,minor,2061600,1156273372
+San Antonio,San Antonio,29.4632,-98.5238,United States,US,USA,Texas,,2058444,1840022220
+Rājkot,Rajkot,22.3,70.7833,India,IN,IND,Gujarāt,,2043000,1356317190
+Shangzhou,Shangzhou,33.868,109.9244,China,CN,CHN,Shaanxi,,2041231,1156091241
+Vishākhapatnam,Vishakhapatnam,17.7042,83.2978,India,IN,IND,Andhra Pradesh,,2035922,1356692563
+Sanmenxia,Sanmenxia,34.7732,111.2004,China,CN,CHN,Henan,,2034872,1156529682
+Baicheng,Baicheng,45.62,122.838,China,CN,CHN,Jilin,minor,2032356,1156435764
+Gujranwala,Gujranwala,32.1567,74.19,Pakistan,PK,PAK,Punjab,minor,2027001,1586400472
+Aleppo,Aleppo,36.2,37.16,Syria,SY,SYR,Ḩalab,admin,2003671,1760366651
+Tijuana,Tijuana,32.525,-117.0333,Mexico,MX,MEX,Baja California,minor,2002000,1484708778
+Bamenda,Bamenda,5.9614,10.1517,Cameroon,CM,CMR,North-West,admin,2000000,1120909610
+Minsk,Minsk,53.9,27.5667,Belarus,BY,BLR,Minsk,primary,1995471,1112348503
+Indore,Indore,22.7167,75.8472,India,IN,IND,Madhya Pradesh,,1994397,1356402812
+Karaj,Karaj,35.8272,50.9489,Iran,IR,IRN,Alborz,admin,1973470,1364258511
+Kananga,Kananga,-5.897,22.4488,Congo (Kinshasa),CD,COD,Kasaï Central,admin,1971704,1180172460
+Peshawar,Peshawar,34.0144,71.5675,Pakistan,PK,PAK,Khyber Pakhtunkhwa,admin,1970042,1586851102
+Sapporo,Sapporo,43.0619,141.3544,Japan,JP,JPN,Hokkaidō,admin,1959313,1392000195
+Sacramento,Sacramento,38.5677,-121.4685,United States,US,USA,California,admin,1957738,1840021491
+Tilburg,Tilburg,51.55,5.0833,Netherlands,NL,NLD,Noord-Brabant,minor,1944588,1528817379
+Pingxiang,Pingxiang,27.659,113.887,China,CN,CHN,Jiangxi,minor,1933200,1156066465
+Ecatepec,Ecatepec,19.6097,-99.06,Mexico,MX,MEX,México,minor,1929926,1484003694
+Almaty,Almaty,43.24,76.915,Kazakhstan,KZ,KAZ,Almaty,admin,1916822,1398351701
+Austin,Austin,30.3005,-97.7522,United States,US,USA,Texas,admin,1905945,1840019590
+Yinchuan,Yinchuan,38.485,106.225,China,CN,CHN,Ningxia,admin,1901793,1156359072
+Santos,Santos,-23.9369,-46.325,Brazil,BR,BRA,São Paulo,,1897551,1076033299
+Blantyre,Blantyre,-15.7861,35.0058,Malawi,MW,MWI,Blantyre,admin,1895973,1454145012
+Thāne,Thane,19.1972,72.9722,India,IN,IND,Mahārāshtra,,1886941,1356681152
+Orlando,Orlando,28.4773,-81.337,United States,US,USA,Florida,,1882705,1840015099
+Tainan,Tainan,22.9833,120.1833,Taiwan,TW,TWN,Tainan,admin,1874686,1158061376
+Xiping,Xiping,40.082,113.2981,China,CN,CHN,Shanxi,minor,1873000,1156898522
+Multan,Multan,30.1978,71.4697,Pakistan,PK,PAK,Punjab,minor,1871843,1586256291
+Santa Cruz,Santa Cruz,-17.8,-63.1833,Bolivia,BO,BOL,Santa Cruz,admin,1867673,1068129363
+Port Harcourt,Port Harcourt,4.8242,7.0336,Nigeria,NG,NGA,Rivers,admin,1865000,1566070649
+Jixi,Jixi,45.295,130.969,China,CN,CHN,Heilongjiang,minor,1862165,1156393765
+Fushun,Fushun,41.881,123.957,China,CN,CHN,Liaoning,,1861372,1156857743
+Warsaw,Warsaw,52.23,21.0111,Poland,PL,POL,Mazowieckie,primary,1860281,1616024847
+Beihai,Beihai,21.481,109.12,China,CN,CHN,Guangxi,minor,1853227,1156421449
+Fuxin,Fuxin,42.022,121.67,China,CN,CHN,Liaoning,,1819339,1156141954
+Wuwei,Wuwei,37.929,102.638,China,CN,CHN,Gansu,minor,1815059,1156760291
+Siping,Siping,43.1668,124.3506,China,CN,CHN,Jilin,minor,1814733,1156063295
+San Juan,San Juan,18.3985,-66.061,Puerto Rico,PR,PRI,Puerto Rico,primary,1814587,1630035577
+Mersin,Mersin,36.8,34.6333,Turkey,TR,TUR,Mersin,admin,1814468,1792520282
+Bhopāl,Bhopal,23.2599,77.4126,India,IN,IND,Madhya Pradesh,admin,1798218,1356734039
+Mosul,Mosul,36.34,43.13,Iraq,IQ,IRQ,Nīnawá,admin,1792000,1368194914
+Lubumbashi,Lubumbashi,-11.6647,27.4794,Congo (Kinshasa),CD,COD,Haut-Katanga,admin,1786397,1180506234
+Davao,Davao,7.07,125.6,Philippines,PH,PHL,Davao,admin,1776949,1608906877
+Curitiba,Curitiba,-25.4297,-49.2711,Brazil,BR,BRA,Paraná,admin,1773733,1076701712
+San Jose,San Jose,37.3012,-121.848,United States,US,USA,California,,1771413,1840021570
+Shuyangzha,Shuyangzha,34.1299,118.7734,China,CN,CHN,Jiangsu,,1770000,1156051957
+Adana,Adana,37,35.3213,Turkey,TR,TUR,Adana,admin,1765981,1792783772
+Quito,Quito,-0.22,-78.5125,Ecuador,EC,ECU,Pichincha,primary,1763275,1218441993
+Pittsburgh,Pittsburgh,40.4397,-79.9763,United States,US,USA,Pennsylvania,,1749091,1840001254
+Brazzaville,Brazzaville,-4.2694,15.2711,Congo (Brazzaville),CG,COG,Brazzaville,primary,1733263,1178340306
+Hyderabad City,Hyderabad City,25.3792,68.3683,Pakistan,PK,PAK,Sindh,minor,1732693,1586185019
+Diyarbakır,Diyarbakir,37.91,40.24,Turkey,TR,TUR,Diyarbakır,admin,1732396,1792536241
+Indianapolis,Indianapolis,39.7771,-86.1458,United States,US,USA,Indiana,admin,1729849,1840030084
+Pimpri-Chinchwad,Pimpri-Chinchwad,18.6186,73.8037,India,IN,IND,Mahārāshtra,,1727692,1356475483
+Masqaţ,Masqat,23.5889,58.4083,Oman,OM,OMN,Masqaţ,,1720000,1512001294
+Montevideo,Montevideo,-34.8836,-56.1819,Uruguay,UY,URY,Montevideo,primary,1719453,1858107000
+Shuozhou,Shuozhou,39.3317,112.4329,China,CN,CHN,Shanxi,minor,1714857,1156227167
+Manhattan,Manhattan,40.7834,-73.9662,United States,US,USA,New York,,1694263,1840034000
+Cincinnati,Cincinnati,39.1413,-84.506,United States,US,USA,Ohio,,1692702,1840003814
+Kansas City,Kansas City,39.1238,-94.5541,United States,US,USA,Missouri,,1689556,1840008535
+Patna,Patna,25.594,85.1376,India,IN,IND,Bihār,admin,1684222,1356821429
+Tegucigalpa,Tegucigalpa,14.1058,-87.2047,Honduras,HN,HND,Francisco Morazán,primary,1682725,1340344059
+Kampala,Kampala,0.3136,32.5811,Uganda,UG,UGA,Kampala,primary,1680600,1800406299
+Cleveland,Cleveland,41.4764,-81.6805,United States,US,USA,Ohio,,1680247,1840000596
+Sanzhou,Sanzhou,30.82,108.4,China,CN,CHN,Chongqing,,1680000,1156025536
+Changshu,Changshu,31.656,120.753,China,CN,CHN,Jiangsu,,1677050,1156901538
+Heihe,Heihe,50.2401,127.521,China,CN,CHN,Heilongjiang,minor,1673899,1156339225
+Conakry,Conakry,9.5092,-13.7122,Guinea,GN,GIN,Conakry,primary,1667864,1324568159
+Ximeicun,Ximeicun,24.9612,118.3849,China,CN,CHN,Fujian,,1663542,1156173813
+Caloocan City,Caloocan City,14.65,120.97,Philippines,PH,PHL,Caloocan,admin,1661584,1608897690
+Masvingo,Masvingo,-20.0744,30.8328,Zimbabwe,ZW,ZWE,Masvingo,admin,1638528,1716049475
+Zhongli,Zhongli,24.965,121.2168,Taiwan,TW,TWN,Taoyuan,,1632616,1158025380
+Novosibirsk,Novosibirsk,55.05,82.95,Russia,RU,RUS,Novosibirskaya Oblast’,admin,1625631,1643399240
+Bilāspur,Bilaspur,22.09,82.15,India,IN,IND,Chhattīsgarh,,1625502,1356820491
+Semarang,Semarang,-6.99,110.4225,Indonesia,ID,IDN,Jawa Tengah,admin,1621384,1360745537
+Jingdezhen,Jingdezhen,29.2917,117.1986,China,CN,CHN,Jiangxi,minor,1618979,1156038165
+Ludhiāna,Ludhiana,30.91,75.85,India,IN,IND,Punjab,,1618879,1356929498
+Liaoyang,Liaoyang,41.279,123.176,China,CN,CHN,Liaoning,,1604580,1156202749
+Chengtangcun,Chengtangcun,35.0833,117.15,China,CN,CHN,Shandong,,1603659,1156883901
+Rājshāhi,Rajshahi,24.3667,88.6,Bangladesh,BD,BGD,Rājshāhi,admin,1600000,1050547831
+Balandougou,Balandougou,13.3558,-9.5517,Mali,ML,MLI,Kayes,,1596882,1466367944
+Jiangyin,Jiangyin,31.839,120.295,China,CN,CHN,Jiangsu,,1595138,1156033234
+Valencia,Valencia,39.47,-0.3764,Spain,ES,ESP,Valencia,admin,1595000,1724981666
+Āgra,Agra,27.18,78.02,India,IN,IND,Uttar Pradesh,,1585704,1356187395
+León de los Aldama,Leon de los Aldama,21.1167,-101.6833,Mexico,MX,MEX,Guanajuato,minor,1579803,1484811199
+Puebla,Puebla,19.0333,-98.1833,Mexico,MX,MEX,Puebla,admin,1576259,1484416394
+Columbus,Columbus,39.9862,-82.9855,United States,US,USA,Ohio,admin,1572546,1840003760
+Yopougon,Yopougon,5.3167,-4.0667,Côte d’Ivoire,CI,CIV,Abidjan,,1571065,1384759584
+Hebi,Hebi,35.748,114.297,China,CN,CHN,Henan,,1569208,1156114258
+Shīrāz,Shiraz,29.61,52.5425,Iran,IR,IRN,Fārs,admin,1565572,1364432238
+Madurai,Madurai,9.9252,78.1198,India,IN,IND,Tamil Nādu,minor,1561129,1356257289
+Huzhou,Huzhou,30.8925,120.0875,China,CN,CHN,Zhejiang,minor,1558826,1156335543
+Tabrīz,Tabriz,38.0814,46.3006,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,admin,1558693,1364141756
+Jamshedpur,Jamshedpur,22.7925,86.1842,India,IN,IND,Jhārkhand,,1558000,1356501259
+Maracaibo,Maracaibo,10.6333,-71.6333,Venezuela,VE,VEN,Zulia,admin,1551539,1862072711
+Sofia,Sofia,42.7,23.33,Bulgaria,BG,BGR,Sofia-Grad,primary,1547779,1100762037
+San José,San Jose,9.9325,-84.08,Costa Rica,CR,CRI,San José,primary,1543000,1188749877
+Prayagraj,Prayagraj,25.4358,81.8464,India,IN,IND,Uttar Pradesh,,1536218,1356718332
+Palembang,Palembang,-2.9861,104.7556,Indonesia,ID,IDN,Sumatera Selatan,admin,1535952,1360902897
+Kawasaki,Kawasaki,35.5167,139.7,Japan,JP,JPN,Kanagawa,,1531646,1392003356
+Kōbe,Kobe,34.69,135.1956,Japan,JP,JPN,Hyōgo,admin,1521707,1392978082
+Jiaxing,Jiaxing,30.747,120.756,China,CN,CHN,Zhejiang,minor,1518654,1156491661
+Kigali,Kigali,-1.9439,30.0594,Rwanda,RW,RWA,Kigali,primary,1518632,1646923541
+Zhangjiajie,Zhangjiajie,29.117,110.479,China,CN,CHN,Hunan,minor,1517027,1156072884
+Baiyin,Baiyin,36.5451,104.1389,China,CN,CHN,Gansu,minor,1512110,1156140738
+Guiping,Guiping,23.4,110.0833,China,CN,CHN,Guangxi,minor,1511011,1156165517
+Lianjiang,Lianjiang,21.7333,110.2833,China,CN,CHN,Guangdong,,1509400,1156944106
+Jianguang,Jianguang,28.1958,115.7833,China,CN,CHN,Jiangxi,,1507402,1156545200
+Yucheng,Yucheng,30.01,103.0415,China,CN,CHN,Sichuan,minor,1507258,1156817119
+Xushan,Xushan,30.1667,121.2333,China,CN,CHN,Zhejiang,minor,1502000,1156046916
+Panama City,Panama City,8.9833,-79.5167,Panama,PA,PAN,Panamá,primary,1500189,1591672475
+Nneyi-Umuleri,Nneyi-Umuleri,6.3333,6.8333,Nigeria,NG,NGA,Anambra,,1500000,1566349733
+Leizhou,Leizhou,20.9143,110.0967,China,CN,CHN,Guangdong,minor,1494700,1156863840
+Gwangju,Gwangju,35.1653,126.8486,"Korea, South",KR,KOR,Gwangju,admin,1490092,1410000087
+Katako-Kombe,Katako-Kombe,-3.4,24.42,Congo (Kinshasa),CD,COD,Sankuru,,1488922,1180033898
+Recife,Recife,-8.05,-34.9,Brazil,BR,BRA,Pernambuco,admin,1488920,1076137337
+Nāsik,Nasik,19.9975,73.7898,India,IN,IND,Mahārāshtra,,1486053,1356562598
+Valencia,Valencia,10.1833,-68,Venezuela,VE,VEN,Carabobo,admin,1484430,1862309871
+Onitsha,Onitsha,6.1667,6.7833,Nigeria,NG,NGA,Anambra,minor,1483000,1566593483
+Abu Dhabi,Abu Dhabi,24.4667,54.3667,United Arab Emirates,AE,ARE,Abū Z̧aby,primary,1483000,1784176710
+Zapopan,Zapopan,20.7167,-103.4,Mexico,MX,MEX,Jalisco,minor,1476491,1484198680
+Daejeon,Daejeon,36.35,127.385,"Korea, South",KR,KOR,Daejeon,admin,1475221,1410993875
+Bronx,Bronx,40.8501,-73.8662,United States,US,USA,New York,,1472654,1840033999
+Yekaterinburg,Yekaterinburg,56.8356,60.6128,Russia,RU,RUS,Sverdlovskaya Oblast’,admin,1468833,1643582706
+Huazhou,Huazhou,32.688,112.087,China,CN,CHN,Henan,minor,1468061,1156796734
+Jinhua,Jinhua,29.079,119.647,China,CN,CHN,Zhejiang,minor,1463990,1156547188
+Kyōto,Kyoto,35.0117,135.7683,Japan,JP,JPN,Kyōto,admin,1463723,1392622735
+Amsterdam,Amsterdam,52.3728,4.8936,Netherlands,NL,NLD,Noord-Holland,primary,1459402,1528355309
+Pizhou,Pizhou,34.398,117.89,China,CN,CHN,Jiangsu,,1458038,1156114238
+Kismaayo,Kismaayo,-0.3581,42.5453,Somalia,SO,SOM,Jubbada Hoose,admin,1458000,1706091701
+Yangshe,Yangshe,31.8767,120.556,China,CN,CHN,Jiangsu,minor,1447600,1156203000
+Virginia Beach,Virginia Beach,36.7335,-76.0435,United States,US,USA,Virginia,,1443020,1840003871
+Dakar,Dakar,14.6928,-17.4467,Senegal,SN,SEN,Dakar,primary,1438725,1686604760
+Goiânia,Goiania,-16.6667,-49.25,Brazil,BR,BRA,Goiás,admin,1437237,1076034054
+Charlotte,Charlotte,35.2083,-80.8303,United States,US,USA,North Carolina,,1427444,1840014557
+Rui’an,Rui'an,27.7833,120.625,China,CN,CHN,Zhejiang,,1424667,1156993705
+Muscat,Muscat,23.6139,58.5922,Oman,OM,OMN,Masqaţ,primary,1421409,1512035506
+Kharkiv,Kharkiv,49.9925,36.2311,Ukraine,UA,UKR,Kharkivska Oblast,admin,1421125,1804588111
+Wenling,Wenling,28.3667,121.3667,China,CN,CHN,Zhejiang,,1416199,1156052493
+Gaozhou,Gaozhou,21.9244,110.8422,China,CN,CHN,Guangdong,minor,1414100,1156785303
+Farīdābād,Faridabad,28.4211,77.3078,India,IN,IND,Haryāna,,1414050,1356013205
+Medina,Medina,24.47,39.61,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,admin,1411599,1682345785
+Khulna,Khulna,22.8167,89.55,Bangladesh,BD,BGD,Khulna,admin,1400689,1050667339
+Ulaanbaatar,Ulaanbaatar,47.9203,106.9172,Mongolia,MN,MNG,Ulaanbaatar,primary,1396288,1496024767
+Fuqing,Fuqing,25.7167,119.3833,China,CN,CHN,Fujian,minor,1390487,1156893569
+Kayseri,Kayseri,38.7225,35.4875,Turkey,TR,TUR,Kayseri,admin,1389680,1792945815
+Tel Aviv-Yafo,Tel Aviv-Yafo,32.08,34.78,Israel,IL,ISR,Tel Aviv,admin,1388400,1376401542
+Wuzhong,Wuzhong,37.9978,106.1986,China,CN,CHN,Ningxia,minor,1382713,1156139322
+Pingdu,Pingdu,36.7769,119.9884,China,CN,CHN,Shandong,,1378900,1156157078
+Sangereng,Sangereng,-6.2889,106.7181,Indonesia,ID,IDN,Jawa Barat,,1378466,1360029147
+Yangquan,Yangquan,37.8571,113.5804,China,CN,CHN,Shanxi,minor,1368502,1156157844
+Samsun,Samsun,41.2903,36.3336,Turkey,TR,TUR,Samsun,admin,1368488,1792169057
+Yutan,Yutan,28.278,112.552,China,CN,CHN,Hunan,minor,1368117,1156592042
+Copenhagen,Copenhagen,55.6761,12.5683,Denmark,DK,DNK,Hovedstaden,primary,1366301,1208763942
+Helsinki,Helsinki,60.1708,24.9375,Finland,FI,FIN,Uusimaa,primary,1360075,1246177997
+Prague,Prague,50.0875,14.4214,Czechia,CZ,CZE,Praha,primary,1357326,1203744823
+Milan,Milan,45.4669,9.19,Italy,IT,ITA,Lombardy,admin,1354196,1380724377
+Auckland,Auckland,-36.8406,174.74,New Zealand,NZ,NZL,Auckland,admin,1346091,1554435911
+Santiago,Santiago,19.4572,-70.6889,Dominican Republic,DO,DOM,Cibao Norte,admin,1343423,1214985348
+Chizhou,Chizhou,30.6654,117.4916,China,CN,CHN,Anhui,minor,1342764,1156131504
+Makassar,Makassar,-5.1619,119.4362,Indonesia,ID,IDN,Sulawesi Selatan,admin,1338663,1360051337
+Liangshi,Liangshi,27.26,111.7442,China,CN,CHN,Hunan,,1335900,1156366507
+Porto Alegre,Porto Alegre,-30.0331,-51.23,Brazil,BR,BRA,Rio Grande do Sul,admin,1332570,1076658221
+Huangshan,Huangshan,29.7149,118.3376,China,CN,CHN,Anhui,minor,1330565,1156527426
+Barranquilla,Barranquilla,10.9833,-74.8019,Colombia,CO,COL,Atlántico,admin,1326588,1170179113
+Al Başrah,Al Basrah,30.515,47.81,Iraq,IQ,IRQ,Al Başrah,admin,1326564,1368714645
+Benxi,Benxi,41.4868,123.685,China,CN,CHN,Liaoning,,1326018,1156097909
+Saitama,Saitama,35.8614,139.6456,Japan,JP,JPN,Saitama,admin,1325843,1392017719
+Guarulhos,Guarulhos,-23.4628,-46.5328,Brazil,BR,BRA,São Paulo,,1324781,1076730420
+Juárez,Juarez,31.745,-106.485,Mexico,MX,MEX,Chihuahua,minor,1321004,1484840083
+Mandalay,Mandalay,21.9831,96.0844,Burma,MM,MMR,Mandalay,admin,1319452,1104468217
+Xintai,Xintai,35.909,117.768,China,CN,CHN,Shandong,,1315942,1156761230
+Wusong,Wusong,30.9333,117.7667,China,CN,CHN,Anhui,minor,1311726,1156264408
+Calgary,Calgary,51.05,-114.0667,Canada,CA,CAN,Alberta,,1306784,1124690423
+Meerut,Meerut,28.98,77.71,India,IN,IND,Uttar Pradesh,,1305429,1356390476
+Yushu,Yushu,44.826,126.55,China,CN,CHN,Jilin,minor,1304436,1156326773
+Belém,Belem,-1.4558,-48.5039,Brazil,BR,BRA,Pará,admin,1303389,1076646823
+Kuaidamao,Kuaidamao,41.7283,125.9397,China,CN,CHN,Jilin,minor,1302778,1156106507
+Huazhou,Huazhou,21.664,110.6396,China,CN,CHN,Guangdong,,1302100,1156282637
+Baishan,Baishan,41.944,126.4147,China,CN,CHN,Jilin,minor,1296127,1156960624
+Adelaide,Adelaide,-34.9275,138.6,Australia,AU,AUS,South Australia,admin,1295714,1036538171
+Haicheng,Haicheng,40.8824,122.6852,China,CN,CHN,Liaoning,minor,1293877,1156052713
+Milwaukee,Milwaukee,43.0642,-87.9675,United States,US,USA,Wisconsin,,1290940,1840003046
+Providence,Providence,41.823,-71.4187,United States,US,USA,Rhode Island,admin,1290271,1840003289
+Jacksonville,Jacksonville,30.3322,-81.6749,United States,US,USA,Florida,,1288298,1840015031
+Yicheng,Yicheng,31.36,119.815,China,CN,CHN,Jiangsu,minor,1285785,1156292419
+Cacuaco,Cacuaco,-8.8053,13.2444,Angola,AO,AGO,Luanda,,1279488,1024559448
+Porto,Porto,41.1621,-8.622,Portugal,PT,PRT,Porto,admin,1278210,1620356810
+Rosario,Rosario,-32.9575,-60.6394,Argentina,AR,ARG,Santa Fe,minor,1276000,1032770677
+Canagatan,Canagatan,18,121.8,Philippines,PH,PHL,Cagayan,,1273219,1608697675
+Soweto,Soweto,-26.2678,27.8585,South Africa,ZA,ZAF,Gauteng,,1271628,1710627007
+Bagam,Bagam,1.13,104.0531,Indonesia,ID,IDN,Kepulauan Riau,,1269820,1360405604
+Jabalpur,Jabalpur,23.1667,79.9333,India,IN,IND,Madhya Pradesh,,1267564,1356115460
+Rucheng,Rucheng,32.246,120.591,China,CN,CHN,Jiangsu,minor,1267066,1156323529
+Huaiyin,Huaiyin,33.5819,119.028,China,CN,CHN,Jiangsu,,1264000,1156662372
+Dublin,Dublin,53.35,-6.2603,Ireland,IE,IRL,Dublin,primary,1263219,1372595407
+Kazan,Kazan,55.7964,49.1089,Russia,RU,RUS,Tatarstan,admin,1259173,1643101260
+Dayan,Dayan,26.8552,100.2259,China,CN,CHN,Yunnan,,1253878,1156828380
+Shaoyang,Shaoyang,32.912,119.8526,China,CN,CHN,Jiangsu,minor,1253548,1156668366
+Balıkesir,Balikesir,39.6333,27.8833,Turkey,TR,TUR,Balıkesir,admin,1250610,1792020804
+Comayagüela,Comayaguela,14.098,-87.21,Honduras,HN,HND,Francisco Morazán,,1250000,1340762485
+Laiwu,Laiwu,36.1833,117.6667,China,CN,CHN,Shandong,,1248636,1156207332
+Sharjah,Sharjah,25.3575,55.3908,United Arab Emirates,AE,ARE,Ash Shāriqah,admin,1247749,1784152993
+Jingling,Jingling,30.664,113.167,China,CN,CHN,Hubei,,1247400,1156060544
+Kalyān,Kalyan,19.2502,73.1602,India,IN,IND,Mahārāshtra,,1246381,1356172246
+Nizhniy Novgorod,Nizhniy Novgorod,56.3269,44.0075,Russia,RU,RUS,Nizhegorodskaya Oblast’,admin,1244254,1643012126
+Yongcheng,Yongcheng,33.9299,116.45,China,CN,CHN,Henan,,1240382,1156841802
+Sumedang,Sumedang,-6.84,107.9208,Indonesia,ID,IDN,Jawa Barat,,1240000,1360564479
+Cần Thơ,Can Tho,10.0333,105.7833,Vietnam,VN,VNM,Cần Thơ,admin,1237300,1704783472
+Brussels,Brussels,50.8467,4.3525,Belgium,BE,BEL,Brussels-Capital Region,primary,1235192,1056469830
+Suwon,Suwon,37.2667,127.0167,"Korea, South",KR,KOR,Gyeonggi,admin,1234300,1410679777
+Yiwu,Yiwu,29.3069,120.0753,China,CN,CHN,Zhejiang,minor,1234015,1156078044
+Beidao,Beidao,34.602,105.918,China,CN,CHN,Gansu,minor,1225000,1156137209
+Vasai-Virar,Vasai-Virar,19.3607,72.7956,India,IN,IND,Mahārāshtra,,1221233,1356707797
+Xiangshui,Xiangshui,26.5964,104.8314,China,CN,CHN,Guizhou,,1221000,1156328867
+Dadukou,Dadukou,26.5824,101.7184,China,CN,CHN,Sichuan,minor,1214121,1156901342
+Campinas,Campinas,-22.9058,-47.0608,Brazil,BR,BRA,São Paulo,,1213792,1076145766
+Lingcheng,Lingcheng,22.7,110.35,China,CN,CHN,Guangxi,,1211637,1156202191
+Shuangyashan,Shuangyashan,46.6762,131.1416,China,CN,CHN,Heilongjiang,minor,1208803,1156245904
+Mombasa,Mombasa,-4.05,39.6667,Kenya,KE,KEN,Mombasa,admin,1208333,1404512373
+Najafgarh,Najafgarh,28.6092,76.9798,India,IN,IND,Delhi,,1203180,1356180206
+Xinyu,Xinyu,27.8186,114.9167,China,CN,CHN,Jiangxi,minor,1202499,1156138735
+Qom,Qom,34.64,50.8764,Iran,IR,IRN,Qom,admin,1201158,1364701633
+Hargeysa,Hargeysa,9.5631,44.0675,Somalia,SO,SOM,Woqooyi Galbeed,admin,1200000,1706832021
+Baidoa,Baidoa,3.1167,43.65,Somalia,SO,SOM,Bay,admin,1200000,1706563100
+Zhangye,Zhangye,38.9248,100.4499,China,CN,CHN,Gansu,minor,1199515,1156180353
+Vārānasi,Varanasi,25.3189,83.0128,India,IN,IND,Uttar Pradesh,,1198491,1356145782
+Hiroshima,Hiroshima,34.3914,132.4519,Japan,JP,JPN,Hiroshima,admin,1198021,1392373695
+Chiang Mai,Chiang Mai,18.7953,98.9986,Thailand,TH,THA,Chiang Mai,admin,1198000,1764662886
+Belgrade,Belgrade,44.82,20.46,Serbia,RS,SRB,Beograd,primary,1197714,1688374696
+Maiduguri,Maiduguri,11.8333,13.15,Nigeria,NG,NGA,Borno,admin,1197497,1566540296
+Chelyabinsk,Chelyabinsk,55.1547,61.3758,Russia,RU,RUS,Chelyabinskaya Oblast’,admin,1196680,1643224011
+Batam Centre,Batam Centre,1.13,104.0531,Indonesia,ID,IDN,Kepulauan Riau,,1196396,1360024213
+Rongcheng,Rongcheng,26.218,104.103,China,CN,CHN,Yunnan,,1189813,1156122888
+Mbandaka,Mbandaka,0.0478,18.2558,Congo (Kinshasa),CD,COD,Équateur,admin,1187837,1180720887
+Doha,Doha,25.2867,51.5333,Qatar,QA,QAT,Ad Dawḩah,primary,1186023,1634459660
+Ahvāz,Ahvaz,31.3047,48.6783,Iran,IR,IRN,Khūzestān,admin,1184788,1364350188
+Shymkent,Shymkent,42.3167,69.5958,Kazakhstan,KZ,KAZ,Shymkent,admin,1184113,1398791401
+Tripoli,Tripoli,32.8872,13.1914,Libya,LY,LBY,Ţarābulus,primary,1183000,1434201852
+Srīnagar,Srinagar,34.09,74.79,India,IN,IND,Jammu and Kashmīr,admin,1180570,1356442950
+Nashville,Nashville,36.1715,-86.7842,United States,US,USA,Tennessee,admin,1177657,1840036155
+Liaoyuan,Liaoyuan,42.888,125.1447,China,CN,CHN,Jilin,minor,1176239,1156249772
+Aurangābād,Aurangabad,19.88,75.32,India,IN,IND,Mahārāshtra,,1175116,1356840670
+Cilacap,Cilacap,-7.7167,109.017,Indonesia,ID,IDN,Jawa Tengah,minor,1174964,1360503809
+Salt Lake City,Salt Lake City,40.7776,-111.9311,United States,US,USA,Utah,admin,1173879,1840021383
+Omsk,Omsk,54.9833,73.3667,Russia,RU,RUS,Omskaya Oblast’,admin,1172070,1643360863
+Pikine,Pikine,14.75,-17.4,Senegal,SN,SEN,Dakar,,1170791,1686165071
+Samara,Samara,53.2028,50.1408,Russia,RU,RUS,Samarskaya Oblast’,admin,1169719,1643205757
+Guankou,Guankou,28.1637,113.6433,China,CN,CHN,Hunan,minor,1168056,1156249346
+Bandar Lampung,Bandar Lampung,-5.45,105.2667,Indonesia,ID,IDN,Lampung,admin,1166761,1360243491
+Raleigh,Raleigh,35.8324,-78.6429,United States,US,USA,North Carolina,admin,1163152,1840014497
+Lianyuan,Lianyuan,27.692,111.664,China,CN,CHN,Hunan,minor,1162928,1156490109
+Rongcheng,Rongcheng,29.8402,112.9048,China,CN,CHN,Hubei,minor,1162770,1156102432
+Dhanbād,Dhanbad,23.7998,86.4305,India,IN,IND,Jhārkhand,,1162472,1356103392
+Nay Pyi Taw,Nay Pyi Taw,19.7475,96.115,Burma,MM,MMR,Nay Pyi Taw,primary,1160242,1104838105
+Aba,Aba,5.1167,7.3667,Nigeria,NG,NGA,Abia,minor,1160000,1566262000
+Kaiyuan,Kaiyuan,36.0193,113.86,China,CN,CHN,Henan,minor,1160000,1156441554
+Zhuji,Zhuji,29.7167,120.2333,China,CN,CHN,Zhejiang,minor,1157938,1156504227
+Yingtan,Yingtan,28.2721,117.0395,China,CN,CHN,Jiangxi,,1154223,1156301061
+Edmonton,Edmonton,53.5344,-113.4903,Canada,CA,CAN,Alberta,admin,1151635,1124290735
+Leiyang,Leiyang,26.4223,112.8598,China,CN,CHN,Hunan,minor,1151554,1156057789
+Ulsan,Ulsan,35.55,129.3167,"Korea, South",KR,KOR,Ulsan,admin,1150116,1410134602
+Yichun,Yichun,47.728,128.841,China,CN,CHN,Heilongjiang,minor,1148126,1156757274
+Benin City,Benin City,6.3333,5.6222,Nigeria,NG,NGA,Edo,admin,1147188,1566080151
+Bujumbura,Bujumbura,-3.3833,29.3667,Burundi,BI,BDI,Bujumbura Mairie,primary,1143202,1108101689
+Guyuan,Guyuan,36.01,106.257,China,CN,CHN,Ningxia,,1142142,1156817541
+Xiantao,Xiantao,30.328,113.443,China,CN,CHN,Hubei,,1140100,1156216927
+Rostov,Rostov,47.2225,39.71,Russia,RU,RUS,Rostovskaya Oblast’,admin,1137704,1643013518
+Maputo,Maputo,-25.9667,32.5833,Mozambique,MZ,MOZ,Maputo,primary,1133200,1508074843
+Bukavu,Bukavu,-2.5,28.8667,Congo (Kinshasa),CD,COD,Sud-Kivu,admin,1133000,1180475821
+Amritsar,Amritsar,31.64,74.86,India,IN,IND,Punjab,,1132383,1356926507
+Shagamu,Shagamu,6.8333,3.65,Nigeria,NG,NGA,Ogun,minor,1132270,1566202131
+Yingchuan,Yingchuan,34.1511,113.4733,China,CN,CHN,Henan,minor,1131896,1156748426
+Alīgarh,Aligarh,27.88,78.08,India,IN,IND,Uttar Pradesh,,1131160,1356076391
+Santo Domingo,Santo Domingo,18.4667,-69.95,Dominican Republic,DO,DOM,Ozama,primary,1128678,1214636202
+Bogor,Bogor,-6.5966,106.7972,Indonesia,ID,IDN,Jawa Barat,,1127408,1360771925
+Bishkek,Bishkek,42.8747,74.6122,Kyrgyzstan,KG,KGZ,Bishkek,primary,1120827,1417191971
+Tbilisi,Tbilisi,41.7225,44.7925,Georgia,GE,GEO,Tbilisi,primary,1118035,1268203191
+Guwāhāti,Guwahati,26.1722,91.7458,India,IN,IND,Assam,,1116267,1356593800
+Ufa,Ufa,54.7261,55.9475,Russia,RU,RUS,Bashkortostan,admin,1115560,1643722928
+Fès,Fes,34.0433,-5.0033,Morocco,MA,MAR,Fès-Meknès,admin,1112072,1504861997
+Mwanza,Mwanza,-2.5167,32.9,Tanzania,TZ,TZA,Mwanza,admin,1104521,1834011288
+Biên Hòa,Bien Hoa,10.95,106.8167,Vietnam,VN,VNM,Đồng Nai,admin,1104000,1704863046
+Mexicali,Mexicali,32.6633,-115.4678,Mexico,MX,MEX,Baja California,admin,1102342,1484788702
+Sevilla,Sevilla,37.39,-5.99,Spain,ES,ESP,Andalusia,admin,1100000,1724991838
+Ikare,Ikare,7.5167,5.75,Nigeria,NG,NGA,Ondo,minor,1099931,1566683694
+Dongtai,Dongtai,32.795,120.519,China,CN,CHN,Jiangsu,minor,1098100,1156536785
+Dingzhou,Dingzhou,38.516,114.99,China,CN,CHN,Hebei,minor,1095986,1156656582
+Xibeijie,Xibeijie,39.7334,98.4943,China,CN,CHN,Gansu,minor,1095947,1156960560
+Tamale,Tamale,9.4075,-0.8533,Ghana,GH,GHA,Northern,admin,1095808,1288890688
+Yuyao,Yuyao,30.05,121.15,China,CN,CHN,Zhejiang,,1095000,1156221984
+Hanchuan,Hanchuan,30.652,113.8274,China,CN,CHN,Hubei,,1092700,1156149248
+Gongzhuling,Gongzhuling,43.5053,124.8224,China,CN,CHN,Jilin,minor,1092692,1156696810
+N’Djamena,N'Djamena,12.11,15.05,Chad,TD,TCD,N’Djamena,primary,1092066,1148708596
+Ubungo,Ubungo,-6.7889,39.2056,Tanzania,TZ,TZA,Dar es Salaam,,1086912,1834358621
+Cologne,Cologne,50.9364,6.9528,Germany,DE,DEU,North Rhine-Westphalia,,1084831,1276015998
+Krasnoyarsk,Krasnoyarsk,56.0089,92.8719,Russia,RU,RUS,Krasnoyarskiy Kray,admin,1083865,1643544975
+Zhufeng,Zhufeng,36,119.4167,China,CN,CHN,Shandong,,1081960,1156522825
+Ezhou,Ezhou,30.3914,114.8949,China,CN,CHN,Hubei,minor,1079353,1156414637
+Astana,Astana,51.1472,71.4222,Kazakhstan,KZ,KAZ,Nur-Sultan,primary,1078362,1398516045
+Nezahualcóyotl,Nezahualcoyotl,19.4081,-99.0186,Mexico,MX,MEX,México,minor,1077208,1484074285
+Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,MR,MRT,Nouakchott Ouest,primary,1077169,1478414984
+Hāora,Haora,22.58,88.3294,India,IN,IND,West Bengal,,1077075,1356986516
+Tongjin,Tongjin,37.2333,127.2,"Korea, South",KR,KOR,Gyeonggi,,1076369,1410160862
+Xiashi,Xiashi,30.5333,120.6833,China,CN,CHN,Zhejiang,minor,1076199,1156080077
+Yerevan,Yerevan,40.1814,44.5144,Armenia,AM,ARM,Yerevan,primary,1075800,1051074169
+Rānchi,Ranchi,23.36,85.33,India,IN,IND,Jhārkhand,admin,1073440,1356110588
+Richmond,Richmond,37.5295,-77.4756,United States,US,USA,Virginia,admin,1073223,1840001698
+Ciudad Nezahualcóyotl,Ciudad Nezahualcoyotl,19.4006,-99.0148,Mexico,MX,MEX,México,,1072676,1484016661
+Gwalior,Gwalior,26.2124,78.1772,India,IN,IND,Madhya Pradesh,,1069276,1356363967
+Ottawa,Ottawa,45.4247,-75.695,Canada,CA,CAN,Ontario,primary,1068821,1124399363
+Zhongwei,Zhongwei,37.5002,105.1968,China,CN,CHN,Ningxia,minor,1067336,1156956616
+Oslo,Oslo,59.9133,10.7389,Norway,NO,NOR,Oslo,primary,1064235,1578324706
+Goyang,Goyang,37.65,126.8,"Korea, South",KR,KOR,Gyeonggi,minor,1061929,1410511255
+Sendai,Sendai,38.2682,140.8694,Japan,JP,JPN,Miyagi,admin,1061177,1392457903
+Mizhou,Mizhou,35.99,119.3801,China,CN,CHN,Shandong,minor,1060000,1156935002
+Xishan,Xishan,27.6461,113.497,China,CN,CHN,Hunan,minor,1060000,1156155575
+Barquisimeto,Barquisimeto,10.0636,-69.3347,Venezuela,VE,VEN,Lara,admin,1059092,1862860739
+Hegang,Hegang,47.3501,130.298,China,CN,CHN,Heilongjiang,minor,1058665,1156541759
+Chandīgarh,Chandigarh,30.75,76.78,India,IN,IND,Chandīgarh,admin,1055450,1356739179
+Voronezh,Voronezh,51.6717,39.2106,Russia,RU,RUS,Voronezhskaya Oblast’,admin,1051995,1643811064
+Managua,Managua,12.1364,-86.2514,Nicaragua,NI,NIC,Managua,primary,1051236,1558296252
+Haldwāni,Haldwani,29.22,79.52,India,IN,IND,Uttarākhand,,1050000,1356040854
+Vijayavāda,Vijayawada,16.5193,80.6305,India,IN,IND,Andhra Pradesh,,1048240,1356807575
+Perm,Perm,58,56.3167,Russia,RU,RUS,Permskiy Kray,admin,1048005,1643294442
+Fangchenggang,Fangchenggang,21.6867,108.3547,China,CN,CHN,Guangxi,minor,1046068,1156532454
+Jiancheng,Jiancheng,30.3931,104.5465,China,CN,CHN,Sichuan,minor,1045900,1156775521
+Cazenga,Cazenga,-8.8214,13.2911,Angola,AO,AGO,Luanda,,1045722,1024791607
+Kisangani,Kisangani,0.5167,25.2,Congo (Kinshasa),CD,COD,Tshopo,admin,1040000,1180478201
+Shouguang,Shouguang,36.857,118.791,China,CN,CHN,Shandong,,1039205,1156787809
+Memphis,Memphis,35.1087,-89.9663,United States,US,USA,Tennessee,,1037998,1840015457
+São Luís,Sao Luis,-2.5283,-44.3044,Brazil,BR,BRA,Maranhão,admin,1037775,1076819308
+Jodhpur,Jodhpur,26.28,73.02,India,IN,IND,Rājasthān,,1033918,1356727084
+Matola,Matola,-25.9667,32.4667,Mozambique,MZ,MOZ,Maputo,,1032197,1508768577
+Ogbomoso,Ogbomoso,8.1333,4.25,Nigeria,NG,NGA,Oyo,minor,1032000,1566373448
+Sanya,Sanya,18.2533,109.5036,China,CN,CHN,Hainan,minor,1031396,1156373900
+Rangapukur,Rangapukur,25.56,89.25,Bangladesh,BD,BGD,Rangpur,,1031388,1050032005
+Ashgabat,Ashgabat,37.9375,58.38,Turkmenistan,TM,TKM,Aşgabat,primary,1030063,1795049992
+Wutong,Wutong,30.6333,120.5333,China,CN,CHN,Zhejiang,minor,1029754,1156182309
+Linhai,Linhai,28.85,121.1167,China,CN,CHN,Zhejiang,,1028813,1156451663
+Denizli,Denizli,37.7833,29.0964,Turkey,TR,TUR,Denizli,admin,1027782,1792161179
+Niamey,Niamey,13.515,2.1175,Niger,NE,NER,Niamey,primary,1026848,1562932886
+Shubrā al Khaymah,Shubra al Khaymah,30.1286,31.2422,Egypt,EG,EGY,Al Qalyūbīyah,,1025569,1818909612
+Wafangdian,Wafangdian,39.6271,121.9796,China,CN,CHN,Liaoning,,1024876,1156476417
+Zhongxiang,Zhongxiang,31.169,112.5853,China,CN,CHN,Hubei,,1022514,1156631720
+Monrovia,Monrovia,6.3133,-10.8014,Liberia,LR,LBR,Montserrado,primary,1021762,1430477826
+San Cristóbal,San Cristobal,7.7667,-72.2333,Venezuela,VE,VEN,Táchira,admin,1015623,1862252264
+Islamabad,Islamabad,33.6931,73.0639,Pakistan,PK,PAK,Islamabad,primary,1014825,1586306717
+Xinyi,Xinyi,22.3549,110.9468,China,CN,CHN,Guangdong,,1013900,1156936644
+Thủ Đức,Thu Duc,10.8266,106.7609,Vietnam,VN,VNM,Hồ Chí Minh,minor,1013795,1704361621
+Morelia,Morelia,19.7683,-101.1894,Mexico,MX,MEX,Michoacán,admin,1011704,1484669072
+Odesa,Odesa,46.4775,30.7326,Ukraine,UA,UKR,Odeska Oblast,admin,1010537,1804178102
+Raipur,Raipur,21.2444,81.6306,India,IN,IND,Chhattīsgarh,admin,1010087,1356374983
+Changwon,Changwon,35.2708,128.6631,"Korea, South",KR,KOR,Gyeongnam,admin,1009998,1410592618
+Arequipa,Arequipa,-16.4,-71.5333,Peru,PE,PER,Arequipa,admin,1008290,1604723954
+Volgograd,Volgograd,48.7086,44.5147,Russia,RU,RUS,Volgogradskaya Oblast’,admin,1004763,1643577201
+Zaoyang,Zaoyang,32.129,112.772,China,CN,CHN,Hubei,,1004741,1156197076
+Xingyi,Xingyi,25.092,104.8955,China,CN,CHN,Guizhou,,1004132,1156255316
+Shuizhai,Shuizhai,33.4433,114.8994,China,CN,CHN,Henan,,1003698,1156462734
+Kota,Kota,25.18,75.83,India,IN,IND,Rājasthān,,1001694,1356820310
+Quetta,Quetta,30.1833,67,Pakistan,PK,PAK,Balochistan,admin,1001205,1586556108
+Quảng Hà,Quang Ha,15.9333,108.2667,Vietnam,VN,VNM,Quảng Nam,,1000000,1704966442
+Domaa-Ahenkro,Domaa-Ahenkro,7.2833,-2.8833,Ghana,GH,GHA,Bono,,1000000,1288459533
+Bareilly,Bareilly,28.364,79.415,India,IN,IND,Uttar Pradesh,,1000000,1356698199
+Oklahoma City,Oklahoma City,35.4676,-97.5136,United States,US,USA,Oklahoma,admin,998806,1840020428
+Bordeaux,Bordeaux,44.84,-0.58,France,FR,FRA,Nouvelle-Aquitaine,admin,994920,1250449238
+Xingcheng,Xingcheng,24.1347,115.73,China,CN,CHN,Guangdong,minor,993000,1156913008
+Taixing,Taixing,32.159,120.029,China,CN,CHN,Jiangsu,minor,990200,1156331200
+Xinhualu,Xinhualu,34.3964,113.7402,China,CN,CHN,Henan,minor,989900,1156544851
+Lilongwe,Lilongwe,-13.9833,33.7833,Malawi,MW,MWI,Lilongwe,primary,989318,1454688499
+Port-au-Prince,Port-au-Prince,18.5333,-72.3333,Haiti,HT,HTI,Ouest,primary,987310,1332401940
+Yingcheng,Yingcheng,24.21,113.401,China,CN,CHN,Guangdong,minor,986400,1156012356
+Al Mijlad,Al Mijlad,11.0339,27.74,Sudan,SD,SDN,West Kordofan,,985000,1729768355
+Luocheng,Luocheng,22.7689,111.5697,China,CN,CHN,Guangdong,minor,984100,1156138895
+Pekanbaru,Pekanbaru,0.5092,101.4453,Indonesia,ID,IDN,Riau,admin,983356,1360422679
+Natal,Natal,-6.9838,-60.2699,Brazil,BR,BRA,Amazonas,,980588,1076336975
+Chiba,Chiba,35.6073,140.1064,Japan,JP,JPN,Chiba,admin,975014,1392107144
+Kirkuk,Kirkuk,35.4667,44.3167,Iraq,IQ,IRQ,Karkūk,admin,975000,1368344172
+Hartford,Hartford,41.7661,-72.6834,United States,US,USA,Connecticut,admin,974684,1840004773
+Huilong,Huilong,31.87,121.703,China,CN,CHN,Jiangsu,minor,972525,1156485081
+Wuchuan,Wuchuan,21.441,110.779,China,CN,CHN,Guangdong,,972400,1156198103
+Dnipro,Dnipro,48.4675,35.04,Ukraine,UA,UKR,Dnipropetrovska Oblast,admin,968502,1804152933
+Nārāyanganj,Narayanganj,23.62,90.5,Bangladesh,BD,BGD,Dhaka,,967951,1050424421
+Gqeberha,Gqeberha,-33.9581,25.6,South Africa,ZA,ZAF,Eastern Cape,,967677,1710918997
+Málaga,Malaga,36.7194,-4.42,Spain,ES,ESP,Andalusia,minor,967250,1724397372
+Marrakech,Marrakech,31.63,-8.0089,Morocco,MA,MAR,Marrakech-Safi,admin,966987,1504172585
+Cebu City,Cebu City,10.32,123.75,Philippines,PH,PHL,Cebu,admin,964169,1608136151
+Louisville,Louisville,38.1663,-85.6485,United States,US,USA,Kentucky,,963812,1840030815
+Asmara,Asmara,15.3228,38.925,Eritrea,ER,ERI,Ma’ĭkel,primary,963000,1232791236
+Coimbatore,Coimbatore,11.0167,76.9556,India,IN,IND,Tamil Nādu,,959823,1356999503
+Maceió,Maceio,-9.6658,-35.735,Brazil,BR,BRA,Alagoas,admin,957916,1076440479
+Nada,Nada,19.5209,109.5808,China,CN,CHN,Hainan,minor,954259,1156911678
+Taishan,Taishan,22.2486,112.785,China,CN,CHN,Guangdong,,953900,1156105450
+Teresina,Teresina,-5.0949,-42.8042,Brazil,BR,BRA,Piauí,admin,953172,1076727667
+Solāpur,Solapur,17.68,75.92,India,IN,IND,Mahārāshtra,,951558,1356314385
+Freetown,Freetown,8.4844,-13.2344,Sierra Leone,SL,SLE,Western Area,primary,951000,1694085071
+Santo Domingo Este,Santo Domingo Este,18.4855,-69.8734,Dominican Republic,DO,DOM,Ozama,admin,948855,1214664832
+Krasnodar,Krasnodar,45.0333,38.9667,Russia,RU,RUS,Krasnodarskiy Kray,admin,948827,1643438227
+Vientiane,Vientiane,17.98,102.63,Laos,LA,LAO,Viangchan,primary,948487,1418732714
+Tangier,Tangier,35.7767,-5.8039,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,admin,947952,1504861504
+Anqiu,Anqiu,36.478,119.219,China,CN,CHN,Shandong,,947723,1156592047
+Kermānshāh,Kermanshah,34.3325,47.0933,Iran,IR,IRN,Kermānshāh,admin,946651,1364535690
+Feicheng,Feicheng,36.1861,116.7719,China,CN,CHN,Shandong,,946627,1156303834
+Kibanseke Première,Kibanseke Premiere,-4.4419,15.395,Congo (Kinshasa),CD,COD,Kinshasa,,946372,1180763985
+Seberang Jaya,Seberang Jaya,5.4083,100.3695,Malaysia,MY,MYS,Pulau Pinang,,946092,1458417183
+Buffalo,Buffalo,42.9018,-78.8487,United States,US,USA,New York,,944589,1840000386
+Hubli,Hubli,15.3502,75.1376,India,IN,IND,Karnātaka,,943788,1356422270
+El Alto,El Alto,-16.5047,-68.1633,Bolivia,BO,BOL,La Paz,,943000,1068007058
+Çankaya,Cankaya,39.9244,32.8856,Turkey,TR,TUR,Ankara,minor,942553,1792458894
+Hwasu-dong,Hwasu-dong,37.1997,126.8314,"Korea, South",KR,KOR,Gyeonggi,,941489,1410037247
+Setagaya,Setagaya,35.6466,139.6532,Japan,JP,JPN,Tōkyō,,940071,1392792380
+Keçiören,Kecioren,40,32.8667,Turkey,TR,TUR,Ankara,minor,939279,1792127988
+Jerusalem,Jerusalem,31.7789,35.2256,Israel,IL,ISR,Jerusalem,primary,936425,1376261644
+Khartoum North,Khartoum North,15.6333,32.6333,Sudan,SD,SDN,Khartoum,,936349,1729318628
+Meishan,Meishan,34.1736,112.839,China,CN,CHN,Henan,minor,936000,1156023073
+Mushin,Mushin,6.5333,3.35,Nigeria,NG,NGA,Lagos,minor,935400,1566329100
+Trujillo,Trujillo,-8.112,-79.0288,Peru,PE,PER,La Libertad,admin,935147,1604613706
+Kitakyūshū,Kitakyushu,33.8833,130.8833,Japan,JP,JPN,Fukuoka,,935084,1392003140
+Aguascalientes,Aguascalientes,21.876,-102.296,Mexico,MX,MEX,Aguascalientes,admin,934424,1484666646
+New Orleans,New Orleans,30.0687,-89.9288,United States,US,USA,Louisiana,,932759,1840001839
+Fort Worth,Fort Worth,32.7817,-97.3474,United States,US,USA,Texas,,924663,1840020696
+Taihe,Taihe,30.8706,105.3784,China,CN,CHN,Sichuan,minor,924531,1156281983
+Riga,Riga,56.9489,24.1064,Latvia,LV,LVA,Rīga,primary,920643,1428586192
+Xin’an,Xin'an,34.286,118.355,China,CN,CHN,Jiangsu,,920628,1156236053
+Taihecun,Taihecun,45.771,131.003,China,CN,CHN,Heilongjiang,minor,920471,1156875484
+Kashgar,Kashgar,39.4681,75.9938,China,CN,CHN,Xinjiang,minor,920000,1156113193
+Sŏngnam,Songnam,37.4333,127.15,"Korea, South",KR,KOR,Gyeonggi,,918771,1410622472
+Trichinopoly,Trichinopoly,10.7903,78.7047,India,IN,IND,Tamil Nādu,,916857,1356884472
+Cartagena,Cartagena,10.4,-75.5,Colombia,CO,COL,Bolívar,admin,914552,1170886102
+Qingzhou,Qingzhou,36.6853,118.4796,China,CN,CHN,Shandong,,914047,1156874864
+Naples,Naples,40.8333,14.25,Italy,IT,ITA,Campania,admin,913462,1380646673
+Santiago del Estero,Santiago del Estero,-27.7833,-64.2667,Argentina,AR,ARG,Santiago del Estero,admin,911506,1032492280
+Naucalpan de Juárez,Naucalpan de Juarez,19.4753,-99.2378,Mexico,MX,MEX,México,minor,910407,1484850125
+Daye,Daye,30.0961,114.9804,China,CN,CHN,Hubei,,909724,1156255811
+Hengzhou,Hengzhou,22.6799,109.2614,China,CN,CHN,Guangxi,minor,909400,1156041202
+Padang,Padang,-0.95,100.3531,Indonesia,ID,IDN,Sumatera Barat,admin,909040,1360900986
+Bridgeport,Bridgeport,41.1918,-73.1954,United States,US,USA,Connecticut,,908251,1840004836
+Owerri,Owerri,5.485,7.035,Nigeria,NG,NGA,Imo,admin,908109,1566679132
+Zhuanghe,Zhuanghe,39.681,122.967,China,CN,CHN,Liaoning,,905852,1156410076
+Bobo-Dioulasso,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,BF,BFA,Hauts-Bassins,admin,903887,1854348796
+Ad Dammām,Ad Dammam,26.4333,50.1,Saudi Arabia,SA,SAU,Ash Sharqīyah,admin,903312,1682452296
+Quzhou,Quzhou,28.9702,118.8593,China,CN,CHN,Zhejiang,,902767,1156180376
+Donetsk,Donetsk,48.0028,37.8053,Ukraine,UA,UKR,Donetska Oblast,admin,901645,1804963805
+Ashmūn,Ashmun,30.2941,31.0342,Egypt,EG,EGY,Al Minūfīyah,,901191,1818251892
+Bunia,Bunia,1.5667,30.25,Congo (Kinshasa),CD,COD,Ituri,admin,900666,1180006418
+Jiaozhou,Jiaozhou,36.2647,120.0334,China,CN,CHN,Shandong,,900500,1156752602
+Campo Grande,Campo Grande,-20.4839,-54.615,Brazil,BR,BRA,Mato Grosso do Sul,admin,897938,1076660445
+Wuchang,Wuchang,44.924,127.158,China,CN,CHN,Heilongjiang,minor,897705,1156065450
+São Gonçalo,Sao Goncalo,-22.8269,-43.0539,Brazil,BR,BRA,Rio de Janeiro,,896744,1076485783
+Bucaramanga,Bucaramanga,7.1333,-73,Colombia,CO,COL,Santander,admin,893040,1170940590
+Mérida,Merida,20.97,-89.62,Mexico,MX,MEX,Yucatán,admin,892363,1484396779
+Yangchun,Yangchun,22.1704,111.7916,China,CN,CHN,Guangdong,,891800,1156787307
+Osmangazi,Osmangazi,40.1983,29.06,Turkey,TR,TUR,Bursa,minor,891250,1792498117
+Esenyurt,Esenyurt,41.0342,28.68,Turkey,TR,TUR,İstanbul,,891120,1792759121
+Morādābād,Moradabad,28.8319,78.7764,India,IN,IND,Uttar Pradesh,,889810,1356269375
+Bangui,Bangui,4.3733,18.5628,Central African Republic,CF,CAF,Bangui,primary,889231,1140080881
+Abeokuta,Abeokuta,7.1608,3.3483,Nigeria,NG,NGA,Ogun,admin,888924,1566979497
+Cancún,Cancun,21.1606,-86.8475,Mexico,MX,MEX,Quintana Roo,minor,888797,1484010310
+Antipolo,Antipolo,14.5842,121.1763,Philippines,PH,PHL,Rizal,admin,887399,1608824345
+Dengtalu,Dengtalu,36.1386,114.1066,China,CN,CHN,Henan,minor,887000,1156202014
+Taguig City,Taguig City,14.52,121.05,Philippines,PH,PHL,Taguig,admin,886722,1608766695
+Tabūk,Tabuk,28.3972,36.5789,Saudi Arabia,SA,SAU,Tabūk,admin,886036,1682590992
+Zhoushan,Zhoushan,29.9856,122.2074,China,CN,CHN,Zhejiang,minor,882932,1156200283
+Tucson,Tucson,32.1541,-110.8787,United States,US,USA,Arizona,,878320,1840022101
+As Sulaymānīyah,As Sulaymaniyah,35.5572,45.4356,Iraq,IQ,IRQ,As Sulaymānīyah,admin,878146,1368735317
+Chihuahua,Chihuahua,28.6369,-106.0769,Mexico,MX,MEX,Chihuahua,admin,878062,1484335603
+Klang,Klang,3.0333,101.45,Malaysia,MY,MYS,Selangor,,878000,1458509635
+Tiruppūr,Tiruppur,11.1085,77.3411,India,IN,IND,Tamil Nādu,,877778,1356539761
+Gurgaon,Gurgaon,28.456,77.029,India,IN,IND,Haryāna,,876824,1356836043
+Ar Ramādī,Ar Ramadi,33.4258,43.2992,Iraq,IQ,IRQ,Al Anbār,admin,874543,1368838855
+Hai’an,Hai'an,32.535,120.563,China,CN,CHN,Jiangsu,minor,874334,1156332302
+Laiyang,Laiyang,36.9758,120.7136,China,CN,CHN,Shandong,,874127,1156207330
+Barinas,Barinas,8.6333,-70.2,Venezuela,VE,VEN,Barinas,admin,873962,1862647790
+Jalandhar,Jalandhar,31.2569,75.4432,India,IN,IND,Punjab,,873725,1356494816
+Marseille,Marseille,43.2964,5.37,France,FR,FRA,Provence-Alpes-Côte d’Azur,admin,873076,1250774071
+Kaifeng Chengguanzhen,Kaifeng Chengguanzhen,34.8519,114.3481,China,CN,CHN,Henan,minor,872000,1156686574
+Eskişehir,Eskisehir,39.7767,30.5206,Turkey,TR,TUR,Eskişehir,admin,871187,1792933981
+Gaomi,Gaomi,36.3833,119.75,China,CN,CHN,Shandong,,868715,1156673331
+Lhasa,Lhasa,29.6534,91.1719,China,CN,CHN,Tibet,admin,867891,1156369972
+Ipoh,Ipoh,4.5972,101.075,Malaysia,MY,MYS,Perak,admin,866772,1458423505
+El Paso,El Paso,31.8476,-106.43,United States,US,USA,Texas,,865270,1840023252
+Saltillo,Saltillo,25.4231,-100.9919,Mexico,MX,MEX,Coahuila,admin,864431,1484107245
+Dushanbe,Dushanbe,38.5367,68.78,Tajikistan,TJ,TJK,Dushanbe,primary,863400,1762930616
+Ikeja,Ikeja,6.6,3.35,Nigeria,NG,NGA,Lagos,admin,861300,1566486388
+El Dorado,El Dorado,24.808,-107.397,Mexico,MX,MEX,Sinaloa,,858638,1484719986
+Cochabamba,Cochabamba,-17.3883,-66.1597,Bolivia,BO,BOL,Cochabamba,admin,856198,1068793894
+Portsmouth,Portsmouth,50.8058,-1.0872,United Kingdom,GB,GBR,Portsmouth,,855679,1826964096
+Tyumen,Tyumen,57.15,65.5333,Russia,RU,RUS,Tyumenskaya Oblast’,admin,855600,1643040435
+Southampton,Southampton,50.9025,-1.4042,United Kingdom,GB,GBR,Southampton,,855569,1826602892
+Hermosillo,Hermosillo,29.0989,-110.9542,Mexico,MX,MEX,Sonora,admin,855563,1484015319
+Wuxi,Wuxi,26.58,111.841,China,CN,CHN,Hunan,minor,853197,1156698595
+Leping,Leping,28.978,117.152,China,CN,CHN,Jiangxi,minor,852800,1156705082
+Cheongju,Cheongju,36.6333,127.4833,"Korea, South",KR,KOR,Chungbuk,admin,852018,1410964361
+Shache,Shache,38.4261,77.25,China,CN,CHN,Xinjiang,,851374,1156278934
+Sale,Sale,34.0333,-6.8,Morocco,MA,MAR,Rabat-Salé-Kénitra,,850403,1504989034
+Hailun,Hailun,47.4667,126.9667,China,CN,CHN,Heilongjiang,minor,850000,1156804488
+Macheng,Macheng,31.173,115.008,China,CN,CHN,Hubei,,849090,1156949639
+Akure,Akure,7.25,5.195,Nigeria,NG,NGA,Ondo,admin,847903,1566568277
+Ilorin,Ilorin,8.5,4.55,Nigeria,NG,NGA,Kwara,admin,847582,1566480168
+Erbil,Erbil,36.1912,44.0092,Iraq,IQ,IRQ,Arbīl,admin,846000,1368578192
+Kathmandu,Kathmandu,27.71,85.32,Nepal,NP,NPL,,primary,845767,1524589448
+Saratov,Saratov,51.5333,46.0167,Russia,RU,RUS,Saratovskaya Oblast’,admin,845300,1643556540
+Iguaçu,Iguacu,-22.74,-43.47,Brazil,BR,BRA,Rio de Janeiro,,844583,1076339714
+Zijinglu,Zijinglu,34.7667,112.9667,China,CN,CHN,Henan,minor,843900,1156086381
+Turin,Turin,45.0792,7.6761,Italy,IT,ITA,Piedmont,admin,841600,1380244627
+Yuci,Yuci,37.6823,112.7281,China,CN,CHN,Shanxi,,840000,1156177817
+Dehui,Dehui,44.535,125.703,China,CN,CHN,Jilin,,839786,1156898134
+Pietermaritzburg,Pietermaritzburg,-29.6167,30.3833,South Africa,ZA,ZAF,KwaZulu-Natal,admin,839327,1710690280
+Durban,Durban,-29.8833,31.05,South Africa,ZA,ZAF,KwaZulu-Natal,,838634,1710149138
+Bhubaneshwar,Bhubaneshwar,20.2644,85.8281,India,IN,IND,Odisha,admin,837737,1356140143
+Denpasar,Denpasar,-8.65,115.2167,Indonesia,ID,IDN,Bali,admin,834881,1360848527
+Tongchuan,Tongchuan,34.897,108.945,China,CN,CHN,Shaanxi,minor,834437,1156849608
+João Pessoa,Joao Pessoa,-7.12,-34.88,Brazil,BR,BRA,Paraíba,admin,833932,1076922014
+Samarinda,Samarinda,-0.5,117.1378,Indonesia,ID,IDN,Kalimantan Timur,admin,831460,1360684979
+Chengxiang,Chengxiang,31.564,121.174,China,CN,CHN,Jiangsu,minor,831113,1156254788
+Rongjiawan,Rongjiawan,29.1409,113.1087,China,CN,CHN,Hunan,minor,826000,1156795164
+Weichanglu,Weichanglu,37.1792,119.9333,China,CN,CHN,Shandong,minor,824708,1156194600
+Sakai,Sakai,34.5733,135.4831,Japan,JP,JPN,Ōsaka,,824408,1392003291
+Renqiu,Renqiu,38.686,116.084,China,CN,CHN,Hebei,minor,822455,1156943939
+Omaha,Omaha,41.2627,-96.0529,United States,US,USA,Nebraska,,821345,1840009315
+Xindi,Xindi,29.827,113.476,China,CN,CHN,Hubei,,819446,1156263165
+Wu’an,Wu'an,36.697,114.204,China,CN,CHN,Hebei,,819000,1156729960
+Qingping,Qingping,34.539,113.391,China,CN,CHN,Henan,minor,817000,1156033855
+Gaoyou,Gaoyou,32.7847,119.4432,China,CN,CHN,Jiangsu,minor,811800,1156235854
+São Bernardo do Campo,Sao Bernardo do Campo,-23.7,-46.55,Brazil,BR,BRA,São Paulo,,810729,1076793227
+Yiyang,Yiyang,26.4221,112.3999,China,CN,CHN,Hunan,minor,810447,1156142520
+Hejian,Hejian,38.4466,116.0995,China,CN,CHN,Hebei,minor,810306,1156405731
+Puxi,Puxi,35.2125,114.735,China,CN,CHN,Henan,minor,809535,1156046618
+Bhayandar,Bhayandar,19.29,72.85,India,IN,IND,Mahārāshtra,,809378,1356019118
+Androtsy,Androtsy,-24.1,46.3,Madagascar,MG,MDG,Toliara,,809313,1450017816
+Culiacán,Culiacan,24.8069,-107.3939,Mexico,MX,MEX,Sinaloa,admin,808416,1484516810
+Cúcuta,Cucuta,7.8942,-72.5039,Colombia,CO,COL,Norte de Santander,admin,806378,1170743755
+Danyang,Danyang,32,119.586,China,CN,CHN,Jiangsu,,806300,1156578273
+Dongyang,Dongyang,29.2667,120.2167,China,CN,CHN,Zhejiang,minor,804398,1156259752
+Kraków,Krakow,50.0614,19.9372,Poland,PL,POL,Małopolskie,admin,804237,1616172264
+Pasig City,Pasig City,14.5605,121.0765,Philippines,PH,PHL,Pasig,admin,803159,1608278212
+Thessaloníki,Thessaloniki,40.6403,22.9347,Greece,GR,GRC,Kentrikí Makedonía,admin,802572,1300397999
+Querétaro,Queretaro,20.5875,-100.3928,Mexico,MX,MEX,Querétaro,admin,801940,1484604775
+Palermo,Palermo,2.8917,-75.4375,Colombia,CO,COL,Huila,minor,800000,1170614290
+Xigazê,Xigaze,29.25,88.8833,China,CN,CHN,Tibet,minor,798153,1156107208
+Qamdo,Qamdo,31.143,97.17,China,CN,CHN,Tibet,minor,798067,1156277802
+McAllen,McAllen,26.2252,-98.2467,United States,US,USA,Texas,,797341,1840021024
+Libreville,Libreville,0.3903,9.4542,Gabon,GA,GAB,Estuaire,primary,797003,1266952885
+Seyhan,Seyhan,36.9831,35.3328,Turkey,TR,TUR,Adana,minor,795012,1792655353
+San Pedro Sula,San Pedro Sula,15.5,-88.0333,Honduras,HN,HND,Cortés,admin,793835,1340568412
+Niigata,Niigata,37.9161,139.0364,Japan,JP,JPN,Niigata,admin,790646,1392913753
+Hempstead,Hempstead,40.6629,-73.6089,United States,US,USA,New York,,789763,1840005293
+Leeds,Leeds,53.7975,-1.5436,United Kingdom,GB,GBR,Leeds,,789194,1826343963
+Hamamatsu,Hamamatsu,34.7108,137.7275,Japan,JP,JPN,Shizuoka,,788211,1392174500
+Pointe-Noire,Pointe-Noire,-4.7975,11.8503,Congo (Brazzaville),CG,COG,Pointe-Noire,admin,787799,1178411563
+Xiangxiang,Xiangxiang,27.7186,112.5502,China,CN,CHN,Hunan,,787216,1156524101
+Birmingham,Birmingham,33.5279,-86.7971,United States,US,USA,Alabama,,782111,1840006507
+Chaohucun,Chaohucun,31.6244,117.8902,China,CN,CHN,Anhui,,782000,1156671495
+Bucheon,Bucheon,37.5,126.7833,"Korea, South",KR,KOR,Gyeonggi,minor,781119,1410428222
+Lubango,Lubango,-14.9167,13.5,Angola,AO,AGO,Huíla,admin,776249,1024669127
+Homs,Homs,34.7308,36.7094,Syria,SY,SYR,Ḩimş,admin,775404,1760013934
+Bilbao,Bilbao,43.2569,-2.9236,Spain,ES,ESP,Basque Country,minor,775000,1724331267
+Zouping,Zouping,36.863,117.743,China,CN,CHN,Shandong,,774517,1156817518
+Frankfurt,Frankfurt,50.1106,8.6822,Germany,DE,DEU,Hesse,minor,773068,1276054552
+San Luis Potosí,San Luis Potosi,22.1511,-100.9761,Mexico,MX,MEX,San Luis Potosí,admin,772828,1484583620
+Dali,Dali,25.6065,100.2676,China,CN,CHN,Yunnan,,771128,1156840276
+Fuyang,Fuyang,30.0553,119.95,China,CN,CHN,Zhejiang,minor,771000,1156340393
+Khŭjand,Khujand,40.2833,69.6333,Tajikistan,TJ,TJK,Sughd,admin,770000,1762372787
+Korla,Korla,41.7259,86.1746,China,CN,CHN,Xinjiang,minor,770000,1156965620
+Albuquerque,Albuquerque,35.1054,-106.6465,United States,US,USA,New Mexico,,769986,1840019176
+Hamhŭng,Hamhung,39.9167,127.5333,"Korea, North",KP,PRK,Hamnam,admin,768551,1408482040
+Erzurum,Erzurum,39.9086,41.2769,Turkey,TR,TUR,Erzurum,admin,767848,1792511957
+Zagreb,Zagreb,45.8131,15.9775,Croatia,HR,HRV,"Zagreb, Grad",primary,767131,1191233290
+Al ‘Ayn,Al `Ayn,24.2075,55.7447,United Arab Emirates,AE,ARE,Abū Z̧aby,,766936,1784674685
+Songzi,Songzi,30.174,111.757,China,CN,CHN,Hubei,,765911,1156837705
+Patiāla,Patiala,30.34,76.38,India,IN,IND,Punjab,,763280,1356458416
+Laixi,Laixi,36.8667,120.5333,China,CN,CHN,Shandong,,762900,1156973102
+Zhongba,Zhongba,31.771,104.755,China,CN,CHN,Sichuan,minor,762140,1156515985
+Bahawalpur,Bahawalpur,29.3956,71.6836,Pakistan,PK,PAK,Punjab,minor,762111,1586038700
+Qingnian,Qingnian,36.8494,115.7061,China,CN,CHN,Shandong,minor,760781,1156689964
+Kaduna,Kaduna,10.5167,7.4333,Nigeria,NG,NGA,Kaduna,admin,760084,1566368729
+Winnipeg,Winnipeg,49.8844,-97.1464,Canada,CA,CAN,Manitoba,admin,758515,1124224963
+Trabzon,Trabzon,41.005,39.7225,Turkey,TR,TUR,Trabzon,admin,758237,1792019202
+Guangshui,Guangshui,31.617,113.826,China,CN,CHN,Hubei,,755910,1156267419
+Baardheere,Baardheere,2.3333,42.2833,Somalia,SO,SOM,Gedo,,755500,1706822684
+Shīshgarh,Shishgarh,28.72,79.32,India,IN,IND,Uttar Pradesh,,753815,1356494610
+Nerima,Nerima,35.7356,139.6517,Japan,JP,JPN,Tōkyō,,752608,1392093402
+Sizhan,Sizhan,38.9846,106.3828,China,CN,CHN,Ningxia,,751389,1156450911
+Ciudad Guayana,Ciudad Guayana,8.3667,-62.65,Venezuela,VE,VEN,Bolívar,minor,751331,1862889027
+Natal,Natal,-5.7833,-35.2,Brazil,BR,BRA,Rio Grande do Norte,admin,751300,1076697777
+Lichuan,Lichuan,30.291,108.9364,China,CN,CHN,Hubei,,750670,1156302762
+Licheng,Licheng,31.4306,119.4788,China,CN,CHN,Jiangsu,minor,749522,1156933354
+Santo André,Santo Andre,-23.6572,-46.5333,Brazil,BR,BRA,São Paulo,,748919,1076625886
+Ōta-ku,Ota-ku,35.5614,139.7161,Japan,JP,JPN,Tōkyō,,748081,1392003511
+Gaalkacyo,Gaalkacyo,6.7697,47.4308,Somalia,SO,SOM,Mudug,admin,745000,1706067930
+Thiruvananthapuram,Thiruvananthapuram,8.5241,76.9366,India,IN,IND,Kerala,admin,743691,1356024354
+Osasco,Osasco,-23.5328,-46.7919,Brazil,BR,BRA,São Paulo,,743432,1076786452
+Nampula,Nampula,-15.1167,39.2667,Mozambique,MZ,MOZ,Nampula,admin,743000,1508958445
+Pretoria,Pretoria,-25.7461,28.1881,South Africa,ZA,ZAF,Gauteng,primary,741651,1710176249
+Kyaukse,Kyaukse,21.6131,96.1303,Burma,MM,MMR,Mandalay,,741071,1104814217
+Chengguan,Chengguan,35.4623,113.8054,China,CN,CHN,Henan,minor,740435,1156866870
+Nehe,Nehe,48.4833,124.8833,China,CN,CHN,Heilongjiang,minor,740000,1156609562
+Cabinda,Cabinda,-5.56,12.19,Angola,AO,AGO,Cabinda,admin,739182,1024474012
+Kumamoto,Kumamoto,32.8031,130.7078,Japan,JP,JPN,Kumamoto,admin,738385,1392106283
+Kermān,Kerman,30.2911,57.0678,Iran,IR,IRN,Kermān,admin,738374,1364554896
+Zunhua,Zunhua,40.189,117.966,China,CN,CHN,Hebei,minor,737011,1156756935
+Orūmīyeh,Orumiyeh,37.5439,45.0647,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,admin,736224,1364158221
+Wugang,Wugang,26.7266,110.6319,China,CN,CHN,Hunan,,734870,1156089788
+Bağcılar,Bagcilar,41.0344,28.8564,Turkey,TR,TUR,İstanbul,,734369,1792374908
+Quebec City,Quebec City,46.8139,-71.2081,Canada,CA,CAN,Quebec,admin,733156,1124823933
+Shuangqiao,Shuangqiao,35.067,112.602,China,CN,CHN,Henan,minor,733000,1156968311
+Umraniye,Umraniye,41.0311,29.1081,Turkey,TR,TUR,İstanbul,,732379,1792758804
+Yanggok,Yanggok,37.6333,127.2167,"Korea, South",KR,KOR,Gyeonggi,,732376,1410188674
+Tshikapa,Tshikapa,-6.4167,20.8,Congo (Kinshasa),CD,COD,Kasaï,admin,732000,1180581239
+Tulsa,Tulsa,36.1283,-95.9042,United States,US,USA,Oklahoma,,731743,1840021672
+Osogbo,Osogbo,7.7667,4.5667,Nigeria,NG,NGA,Osun,admin,731000,1566395088
+Comodoro Rivadavia,Comodoro Rivadavia,-45.8647,-67.4808,Argentina,AR,ARG,Chubut,minor,730266,1032042035
+Nottingham,Nottingham,52.9561,-1.1512,United Kingdom,GB,GBR,Nottingham,,729977,1826122597
+Hamilton,Hamilton,43.2567,-79.8692,Canada,CA,CAN,Ontario,,729560,1124567288
+Langzhong,Langzhong,31.558,106.005,China,CN,CHN,Sichuan,minor,728935,1156930148
+Cagayan de Oro,Cagayan de Oro,8.48,124.65,Philippines,PH,PHL,Cagayan de Oro,admin,728402,1608831546
+Qian’an,Qian'an,39.999,118.701,China,CN,CHN,Hebei,,728160,1156315498
+Fresno,Fresno,36.783,-119.7939,United States,US,USA,California,,725276,1840020319
+An Najaf,An Najaf,32,44.33,Iraq,IQ,IRQ,An Najaf,admin,724700,1368003357
+Cencheng,Cencheng,22.9167,111,China,CN,CHN,Guangxi,minor,724364,1156000460
+Sorocaba,Sorocaba,-23.5017,-47.4581,Brazil,BR,BRA,São Paulo,,723574,1076758708
+Guli,Guli,28.9,120.0333,China,CN,CHN,Zhejiang,,723490,1156383681
+Sagamihara,Sagamihara,35.5667,139.3667,Japan,JP,JPN,Kanagawa,,722973,1392967248
+Pīshbar,Pishbar,33.3886,59.9789,Iran,IR,IRN,Khorāsān-e Jonūbī,,720207,1364328516
+Okayama,Okayama,34.65,133.9167,Japan,JP,JPN,Okayama,admin,720043,1392954750
+Anlu,Anlu,31.2667,113.6667,China,CN,CHN,Hubei,minor,720000,1156406202
+Concepción,Concepcion,-36.8282,-73.0514,Chile,CL,CHL,Biobío,admin,719944,1152838958
+Mississauga,Mississauga,43.6,-79.65,Canada,CA,CAN,Ontario,,717961,1124112672
+Changsha,Changsha,22.3773,112.6982,China,CN,CHN,Guangdong,minor,717700,1156011120
+Songyang,Songyang,34.4553,113.0253,China,CN,CHN,Henan,minor,717400,1156143149
+Lviv,Lviv,49.8425,24.0322,Ukraine,UA,UKR,Lvivska Oblast,admin,717273,1804939658
+Shihezi,Shihezi,44.3054,86.0804,China,CN,CHN,Xinjiang,minor,717000,1156232270
+Vilnius,Vilnius,54.6872,25.28,Lithuania,LT,LTU,Vilniaus Miestas,primary,716856,1440887149
+Marka,Marka,1.7133,44.7656,Somalia,SO,SOM,Shabeellaha Hoose,admin,716361,1706165964
+Enugu,Enugu,6.4528,7.5111,Nigeria,NG,NGA,Enugu,admin,715774,1566212729
+Valenzuela,Valenzuela,14.7,120.98,Philippines,PH,PHL,Valenzuela,admin,714978,1608492120
+Yatou,Yatou,37.1653,122.4867,China,CN,CHN,Shandong,minor,714211,1156009046
+Uberlândia,Uberlandia,-18.9231,-48.2886,Brazil,BR,BRA,Minas Gerais,,713232,1076495001
+Xichang,Xichang,27.8944,102.2644,China,CN,CHN,Sichuan,minor,712434,1156116456
+Zaporizhzhia,Zaporizhzhia,47.85,35.1175,Ukraine,UA,UKR,Zaporizka Oblast,admin,710052,1804644752
+Bhiwandi,Bhiwandi,19.2967,73.0631,India,IN,IND,Mahārāshtra,,709665,1356763571
+George Town,George Town,5.4144,100.3292,Malaysia,MY,MYS,Pulau Pinang,admin,708127,1458236750
+Bristol,Bristol,51.4536,-2.5975,United Kingdom,GB,GBR,"Bristol, City of",,707412,1826921049
+Charleston,Charleston,32.8168,-79.9687,United States,US,USA,South Carolina,,706884,1840015163
+Sahāranpur,Saharanpur,29.964,77.546,India,IN,IND,Uttar Pradesh,,705478,1356139858
+Dashiqiao,Dashiqiao,40.6167,122.5167,China,CN,CHN,Liaoning,minor,704891,1156141962
+Yenimahalle,Yenimahalle,39.9719,32.8119,Turkey,TR,TUR,Ankara,minor,704652,1792692469
+Warangal,Warangal,17.9689,79.5941,India,IN,IND,Telangāna,,704570,1356851618
+Nampo,Nampo,38.7333,125.4,"Korea, North",KP,PRK,Namp’o,,703317,1408358410
+Dasmariñas,Dasmarinas,14.33,120.94,Philippines,PH,PHL,Cavite,,703141,1608418544
+Jaboatão,Jaboatao,-8.1803,-35.0014,Brazil,BR,BRA,Pernambuco,,702621,1076000699
+Chisinau,Chisinau,47.0228,28.8353,Moldova,MD,MDA,Chişinău,primary,702300,1498011437
+Shiliguri,Shiliguri,26.71,88.43,India,IN,IND,West Bengal,,701489,1356724691
+Boosaaso,Boosaaso,11.2886,49.1819,Somalia,SO,SOM,Bari,admin,700906,1706054548
+Port Moresby,Port Moresby,-9.4789,147.1494,Papua New Guinea,PG,PNG,National Capital,primary,700000,1598685395
+Latakia,Latakia,35.5167,35.7833,Syria,SY,SYR,Al Lādhiqīyah,admin,700000,1760555544
+Rochester,Rochester,43.168,-77.6162,United States,US,USA,New York,,699921,1840000373
+Ribeirão Prêto,Ribeirao Preto,-21.1783,-47.8067,Brazil,BR,BRA,São Paulo,,698259,1076524478
+Edogawa,Edogawa,35.7,139.8833,Japan,JP,JPN,Chiba,,697932,1392135698
+São José dos Campos,Sao Jose dos Campos,-23.1789,-45.8869,Brazil,BR,BRA,São Paulo,,697428,1076783887
+General Santos,General Santos,6.12,125.17,Philippines,PH,PHL,General Santos,admin,697315,1608171585
+Ḩamāh,Hamah,35.1333,36.75,Syria,SY,SYR,Ḩamāh,admin,696863,1760197502
+Qianxi,Qianxi,27.0087,106.0323,China,CN,CHN,Guizhou,,695947,1156919716
+Bauchi,Bauchi,10.3158,9.8442,Nigeria,NG,NGA,Bauchi,admin,693700,1566483284
+Pendik,Pendik,40.8747,29.235,Turkey,TR,TUR,İstanbul,minor,693599,1792824929
+Salem,Salem,11.65,78.15,India,IN,IND,Tamil Nādu,,693236,1356567087
+Shishi,Shishi,24.7167,118.7,China,CN,CHN,Fujian,minor,693000,1156077046
+Sinnūris,Sinnuris,29.4072,30.8667,Egypt,EG,EGY,Al Fayyūm,,692701,1818442898
+Cocody,Cocody,5.35,-3.9667,Côte d’Ivoire,CI,CIV,Abidjan,,692583,1384351512
+Miluo Chengguanzhen,Miluo Chengguanzhen,28.761,113.16,China,CN,CHN,Hunan,minor,692080,1156690651
+Lokoja,Lokoja,7.8019,6.7442,Nigeria,NG,NGA,Kogi,admin,692050,1566772925
+Guadalupe,Guadalupe,25.6775,-100.2597,Mexico,MX,MEX,Nuevo León,minor,691931,1484002410
+Gaizhou,Gaizhou,40.4,122.35,China,CN,CHN,Liaoning,minor,691595,1156145272
+Karbalā’,Karbala',32.6167,44.0333,Iraq,IQ,IRQ,Karbalā’,admin,690100,1368597794
+Borvāyeh-ye Al Bū ‘Azīz,Borvayeh-ye Al Bu `Aziz,31.6283,48.6147,Iran,IR,IRN,Khūzestān,,690000,1364441069
+City of Parañaque,City of Paranaque,14.5008,120.9915,Philippines,PH,PHL,Parañaque,admin,689992,1608379532
+Leling,Leling,37.73,117.232,China,CN,CHN,Shandong,minor,689867,1156044041
+Mamak,Mamak,39.9422,32.9231,Turkey,TR,TUR,Ankara,minor,687535,1792465227
+Jianshe,Jianshe,34.2137,113.7629,China,CN,CHN,Henan,minor,687130,1156444449
+Tolyatti,Tolyatti,53.5089,49.4222,Russia,RU,RUS,Samarskaya Oblast’,,685619,1643256295
+Shizuoka,Shizuoka,34.9756,138.3828,Japan,JP,JPN,Shizuoka,admin,685589,1392235505
+Jingcheng,Jingcheng,32.009,120.263,China,CN,CHN,Jiangsu,minor,684360,1156033208
+Agege,Agege,6.6219,3.3258,Nigeria,NG,NGA,Lagos,minor,683600,1566564887
+Mar del Plata,Mar del Plata,-38,-57.55,Argentina,AR,ARG,Buenos Aires,minor,682605,1032456103
+Zaragoza,Zaragoza,41.65,-0.8833,Spain,ES,ESP,Aragon,admin,682513,1724907391
+Adachi,Adachi,35.7833,139.8,Japan,JP,JPN,Tōkyō,,682326,1392464568
+Xinmin,Xinmin,41.997,122.823,China,CN,CHN,Liaoning,,680000,1156368551
+Rasht,Rasht,37.2744,49.5889,Iran,IR,IRN,Gīlān,admin,679995,1364630382
+Shanhu,Shanhu,29.6,120.8167,China,CN,CHN,Zhejiang,minor,679762,1156029691
+Zhongshu,Zhongshu,27.7919,106.4013,China,CN,CHN,Guizhou,,679624,1156658422
+Cotonou,Cotonou,6.3667,2.4333,Benin,BJ,BEN,Littoral,primary,679012,1204955174
+Tasikmalaya,Tasikmalaya,-7.3161,108.1975,Indonesia,ID,IDN,Jawa Barat,,678027,1360027771
+Kochi,Kochi,9.9312,76.2673,India,IN,IND,Kerala,,677381,1356707865
+Soledad,Soledad,10.9167,-74.75,Colombia,CO,COL,Atlántico,minor,676014,1170765625
+Dhūlia,Dhulia,20.8997,74.7697,India,IN,IND,Mahārāshtra,,675000,1356224695
+Acapulco de Juárez,Acapulco de Juarez,16.8636,-99.8825,Mexico,MX,MEX,Guerrero,minor,673478,1484463183
+Gorakhpur,Gorakhpur,26.7637,83.4039,India,IN,IND,Uttar Pradesh,,673446,1356190221
+Bahār,Bahar,34.9028,48.4425,Iran,IR,IRN,Hamadān,minor,673405,1364891653
+Kumul,Kumul,42.8193,93.5151,China,CN,CHN,Xinjiang,minor,673383,1156131545
+Wrocław,Wroclaw,51.11,17.0325,Poland,PL,POL,Dolnośląskie,admin,672929,1616108520
+Murcia,Murcia,37.9861,-1.1303,Spain,ES,ESP,Murcia,admin,672773,1724107739
+Pinghu,Pinghu,30.7005,121.0104,China,CN,CHN,Zhejiang,,671834,1156720536
+Guankou,Guankou,30.988,103.647,China,CN,CHN,Sichuan,,671200,1156503907
+Łódź,Lodz,51.7769,19.4547,Poland,PL,POL,Łódzkie,admin,670642,1616832750
+Guntūr,Guntur,16.3008,80.4428,India,IN,IND,Andhra Pradesh,,670073,1356374905
+Bhāngar,Bhangar,22.58,88.42,India,IN,IND,West Bengal,,670000,1356177796
+Dayton,Dayton,39.7805,-84.2003,United States,US,USA,Ohio,,668825,1840034249
+Ch’ŏngjin,Ch'ongjin,41.7833,129.7667,"Korea, North",KP,PRK,Hambuk,admin,667929,1408498177
+Qionghu,Qionghu,28.945,112.598,China,CN,CHN,Hunan,minor,667104,1156678111
+Zhaodong,Zhaodong,46.051,125.962,China,CN,CHN,Heilongjiang,minor,666532,1156601489
+Puyang Chengguanzhen,Puyang Chengguanzhen,35.7004,114.98,China,CN,CHN,Henan,minor,666322,1156103317
+Bulawayo,Bulawayo,-20.17,28.58,Zimbabwe,ZW,ZWE,Bulawayo,admin,665940,1716032632
+Huambo,Huambo,-12.7767,15.7347,Angola,AO,AGO,Huambo,admin,665564,1024079828
+Aracaju,Aracaju,-10.9167,-37.05,Brazil,BR,BRA,Sergipe,admin,664908,1076527830
+Bacoor,Bacoor,14.4624,120.9645,Philippines,PH,PHL,Cavite,,664625,1608869358
+Wenchang,Wenchang,31.054,116.9507,China,CN,CHN,Anhui,minor,664455,1156574542
+Rotterdam,Rotterdam,51.92,4.48,Netherlands,NL,NLD,Zuid-Holland,minor,664311,1528892850
+Tlaquepaque,Tlaquepaque,20.6167,-103.3167,Mexico,MX,MEX,Jalisco,minor,664193,1484087945
+Villavicencio,Villavicencio,4.15,-73.6333,Colombia,CO,COL,Meta,admin,664148,1170426927
+Shulan,Shulan,44.4059,126.9655,China,CN,CHN,Jilin,minor,663403,1156989733
+Makhachkala,Makhachkala,42.9667,47.4833,Russia,RU,RUS,Dagestan,admin,662600,1643580480
+Banjarmasin,Banjarmasin,-3.32,114.5925,Indonesia,ID,IDN,Kalimantan Selatan,admin,662230,1360685223
+Narela,Narela,28.8527,77.0929,India,IN,IND,Delhi,,661994,1356542019
+Catia La Mar,Catia La Mar,10.6,-67.0333,Venezuela,VE,VEN,La Guaira,minor,661897,1862657837
+Al Hufūf,Al Hufuf,25.3833,49.5833,Saudi Arabia,SA,SAU,Ash Sharqīyah,,660788,1682958157
+Jalingo,Jalingo,8.9,11.3667,Nigeria,NG,NGA,Taraba,admin,660213,1566732241
+Sargodha,Sargodha,32.0836,72.6711,Pakistan,PK,PAK,Punjab,minor,659862,1586696588
+Karaikandi,Karaikandi,24.8309,92.6143,India,IN,IND,Assam,,659260,1356669973
+Bouaké,Bouake,7.6833,-5.0167,Côte d’Ivoire,CI,CIV,Vallée du Bandama,admin,659233,1384983838
+Lingbao Chengguanzhen,Lingbao Chengguanzhen,34.5176,110.8942,China,CN,CHN,Henan,minor,656571,1156837145
+Brampton,Brampton,43.6833,-79.7667,Canada,CA,CAN,Ontario,,656480,1124625989
+Abomey-Calavi,Abomey-Calavi,6.4486,2.3556,Benin,BJ,BEN,Atlantique,,655965,1204016569
+Durango,Durango,24.025,-104.6675,Mexico,MX,MEX,Durango,admin,654876,1484854616
+Cape Coral,Cape Coral,26.6443,-81.9957,United States,US,USA,Florida,,654405,1840015130
+Tondo,Tondo,14.617,120.967,Philippines,PH,PHL,Manila,,654220,1608204201
+Dayrūţ,Dayrut,27.5667,30.8167,Egypt,EG,EGY,Asyūţ,,653847,1818248895
+Tlalnepantla,Tlalnepantla,19.5367,-99.1947,Mexico,MX,MEX,México,minor,653410,1484861603
+Ansan,Ansan,37.3167,126.8333,"Korea, South",KR,KOR,Gyeonggi,,652800,1410585171
+Xiping,Xiping,25.6005,103.8166,China,CN,CHN,Yunnan,minor,652604,1156207794
+Huế,Hue,16.4667,107.5792,Vietnam,VN,VNM,Thừa Thiên-Huế,admin,652572,1704016023
+Sanhe,Sanhe,40.0167,117.0833,China,CN,CHN,Hebei,minor,652042,1156476348
+San Jose del Monte,San Jose del Monte,14.8139,121.0453,Philippines,PH,PHL,Bulacan,,651813,1608850554
+Ch’ŏnan,Ch'onan,36.81,127.1475,"Korea, South",KR,KOR,Chungnam,,651661,1410020455
+Cuiabá,Cuiaba,-15.5958,-56.0969,Brazil,BR,BRA,Mato Grosso,admin,650912,1076112309
+Jieshou,Jieshou,33.257,115.3746,China,CN,CHN,Anhui,,650870,1156304827
+Ērer Sātā,Erer Sata,9.5667,41.3833,Ethiopia,ET,ETH,Sumalē,,649000,1231563638
+Selçuklu,Selcuklu,37.8814,32.4922,Turkey,TR,TUR,Konya,minor,648850,1792683478
+Suohe,Suohe,34.7833,113.35,China,CN,CHN,Henan,minor,648700,1156236948
+Guixi,Guixi,28.2925,117.2454,China,CN,CHN,Jiangxi,minor,647240,1156259342
+Izhevsk,Izhevsk,56.8333,53.1833,Russia,RU,RUS,Udmurtiya,admin,646277,1643983138
+Honchō,Honcho,35.6946,139.9826,Japan,JP,JPN,Chiba,,644668,1392505502
+Wuxue,Wuxue,29.844,115.561,China,CN,CHN,Hubei,minor,644247,1156027100
+Jaboatão dos Guararapes,Jaboatao dos Guararapes,-8.1122,-35.0156,Brazil,BR,BRA,Pernambuco,minor,643759,1076003460
+Yıldırım,Yildirim,40.11,29.0821,Turkey,TR,TUR,Bursa,minor,643681,1792764051
+Bhāvnagar,Bhavnagar,21.76,72.15,India,IN,IND,Gujarāt,,643365,1356982375
+Jinghong,Jinghong,22.009,100.797,China,CN,CHN,Yunnan,minor,642737,1156181533
+Tengyue,Tengyue,25.0167,98.4833,China,CN,CHN,Yunnan,minor,642481,1156832866
+Mission Viejo,Mission Viejo,33.6096,-117.6551,United States,US,USA,California,,642211,1840020580
+Ruiming,Ruiming,25.886,116.027,China,CN,CHN,Jiangxi,,640600,1156104573
+Qufu,Qufu,35.5819,116.9862,China,CN,CHN,Shandong,,640498,1156490037
+Sha Tin,Sha Tin,22.3802,114.1898,Hong Kong,HK,HKG,,,640000,1344745541
+Petaling Jaya,Petaling Jaya,3.0972,101.6444,Malaysia,MY,MYS,Selangor,,638516,1458989343
+Colorado Springs,Colorado Springs,38.8674,-104.7605,United States,US,USA,Colorado,,638194,1840018825
+Noida,Noida,28.57,77.32,India,IN,IND,Uttar Pradesh,,637272,1356002491
+Xinshi,Xinshi,31.1333,113.1167,China,CN,CHN,Hubei,minor,636776,1156422214
+Baton Rouge,Baton Rouge,30.442,-91.1311,United States,US,USA,Louisiana,admin,635671,1840013941
+Manama,Manama,26.225,50.5775,Bahrain,BH,BHR,Al ‘Āşimah,primary,635000,1048989486
+Las Palmas,Las Palmas,28.1258,-15.4353,Spain,ES,ESP,Canary Islands,admin,635000,1724501748
+Chak Forty-one,Chak Forty-one,31.0167,73.85,Pakistan,PK,PAK,Punjab,,634236,1586438684
+Jin’e,Jin'e,29.3394,105.2875,China,CN,CHN,Sichuan,minor,633210,1156661253
+Benghazi,Benghazi,32.1167,20.0667,Libya,LY,LBY,Banghāzī,admin,631555,1434915572
+Chuxiong,Chuxiong,25.033,101.5459,China,CN,CHN,Yunnan,,631530,1156225985
+Barnaul,Barnaul,53.3486,83.7764,Russia,RU,RUS,Altayskiy Kray,admin,631124,1643318931
+Palermo,Palermo,38.1111,13.3517,Italy,IT,ITA,Sicilia,admin,630167,1380428434
+Makati City,Makati City,14.5567,121.0214,Philippines,PH,PHL,Makati,admin,629616,1608725647
+Düsseldorf,Dusseldorf,51.2333,6.7833,Germany,DE,DEU,North Rhine-Westphalia,admin,629047,1276615258
+Allentown,Allentown,40.5961,-75.4756,United States,US,USA,Pennsylvania,,627863,1840001044
+Xinxing,Xinxing,39.8667,124.15,China,CN,CHN,Liaoning,minor,627475,1156258586
+Ţūkh,Tukh,30.3539,31.2007,Egypt,EG,EGY,Al Qalyūbīyah,,627290,1818411967
+Glasgow,Glasgow,55.8611,-4.25,United Kingdom,GB,GBR,Glasgow City,,626410,1826836462
+Namangan,Namangan,41.0011,71.6683,Uzbekistan,UZ,UZB,Namangan,admin,626120,1860894033
+Bazal’tove,Bazal'tove,50.6765,26.16,Ukraine,UA,UKR,Rivnenska Oblast,,625543,1804864050
+Al Qaţīf,Al Qatif,26.556,49.996,Saudi Arabia,SA,SAU,Ash Sharqīyah,,625092,1682001245
+Bhilai,Bhilai,21.21,81.38,India,IN,IND,Chhattīsgarh,,624700,1356098574
+Ulyanovsk,Ulyanovsk,54.3167,48.3667,Russia,RU,RUS,Ul’yanovskaya Oblast’,admin,624518,1643668944
+Mangalore,Mangalore,12.8681,74.8425,India,IN,IND,Karnātaka,,623841,1356972351
+Kaihua,Kaihua,23.387,104.233,China,CN,CHN,Yunnan,minor,623772,1156017759
+Irkutsk,Irkutsk,52.2833,104.2833,Russia,RU,RUS,Irkutskaya Oblast’,admin,623736,1643439037
+Meilan,Meilan,19.999,110.403,China,CN,CHN,Hainan,,623667,1156736601
+Bazhou,Bazhou,39.1333,116.3833,China,CN,CHN,Hebei,minor,622975,1156127276
+Ogden,Ogden,41.2279,-111.9682,United States,US,USA,Utah,,622918,1840020135
+Turpan,Turpan,42.9512,89.1895,China,CN,CHN,Xinjiang,minor,622903,1156573684
+Jos,Jos,9.9167,8.8903,Nigeria,NG,NGA,Plateau,admin,622802,1566773679
+Al Manşūrah,Al Mansurah,31.05,31.3833,Egypt,EG,EGY,Ad Daqahlīyah,admin,621953,1818255319
+Contagem,Contagem,-19.9319,-44.0539,Brazil,BR,BRA,Minas Gerais,,621865,1076845191
+Jambi,Jambi,-1.59,103.61,Indonesia,ID,IDN,Jambi,admin,619553,1360645580
+Ḩalwān,Halwan,29.8453,31.3333,Egypt,EG,EGY,Al Qāhirah,,619293,1818000039
+Provo,Provo,40.2457,-111.6457,United States,US,USA,Utah,,619218,1840020174
+Tân An,Tan An,10.905,106.6994,Vietnam,VN,VNM,Hồ Chí Minh,,618984,1704599287
+Port-Bouët,Port-Bouet,5.2667,-3.9,Côte d’Ivoire,CI,CIV,Abidjan,,618795,1384512844
+Pontianak,Pontianak,-0.0206,109.3414,Indonesia,ID,IDN,Kalimantan Barat,admin,618388,1360992394
+Meihekou,Meihekou,42.5407,125.7107,China,CN,CHN,Jilin,minor,618251,1156474288
+Jurong,Jurong,31.946,119.164,China,CN,CHN,Jiangsu,,617706,1156897463
+Bihtā,Bihta,25.5619,84.87,India,IN,IND,Bihār,,617427,1356234338
+Yuhuan,Yuhuan,28.1277,121.2288,China,CN,CHN,Zhejiang,,616346,1156608968
+Joinvile,Joinvile,-26.3204,-48.8437,Brazil,BR,BRA,Santa Catarina,,616323,1076050637
+Feira de Santana,Feira de Santana,-12.25,-38.95,Brazil,BR,BRA,Bahia,minor,616279,1076892244
+Khabarovsk,Khabarovsk,48.4833,135.0833,Russia,RU,RUS,Khabarovskiy Kray,admin,616242,1643175363
+Leipzig,Leipzig,51.34,12.375,Germany,DE,DEU,Saxony,minor,616093,1276563678
+Xinji,Xinji,37.943,115.218,China,CN,CHN,Hebei,minor,615919,1156456552
+Knoxville,Knoxville,35.9692,-83.9496,United States,US,USA,Tennessee,,615829,1840014486
+Ta‘izz,Ta`izz,13.5789,44.0219,Yemen,YE,YEM,Ta‘izz,admin,615467,1887324526
+Etimesgut,Etimesgut,39.9458,32.6694,Turkey,TR,TUR,Ankara,minor,614891,1792684065
+Changping,Changping,40.2248,116.1944,China,CN,CHN,Beijing,,614821,1156166828
+Tallinn,Tallinn,59.4372,24.7453,Estonia,EE,EST,Tallinn,primary,614561,1233260021
+Chimalhuacán,Chimalhuacan,19.4167,-98.9,Mexico,MX,MEX,México,minor,614453,1484504936
+Kandahār,Kandahar,31.62,65.7158,Afghanistan,AF,AFG,Kandahār,admin,614254,1004003059
+Serang,Serang,-6.12,106.1503,Indonesia,ID,IDN,Banten,admin,613356,1360329102
+Zhangshu,Zhangshu,28.0546,115.5462,China,CN,CHN,Jiangxi,,610424,1156996913
